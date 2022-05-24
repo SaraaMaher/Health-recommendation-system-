@@ -1,0 +1,1492 @@
+Sour cream dip,0.25,cup,0.04799,0.0407,0.0,0.0,133.65,Lunch
+Ice cream bar, chocolate covered,1.0,bar (bar = 3 fl oz),0.0,0.0,0.0,0.0,169.12,BreakFast
+Ice cream sandwich,1.0,sandwich,0.53454,0.0,0.0,0.0,143.37,BreakFast
+Light ice cream sandwich,1.0,sandwich,0.5436,0.0,0.0,0.0,129.6,BreakFast
+Light ice cream bar,1.0,bar (bar = 3 fl oz),0.0,0.0,0.0,0.0,153.44,BreakFast
+Light fudgesicle,1.0,sicle (sicle = 2.5 fl oz),0.0,0.0,0.0,0.0,121.91,BreakFast
+Sherbet,1.0,push up ,0.0,0.0,0.03894,0.0,95.04,BreakFast
+Low fat, low sugar ice milk ,1.0,cup,0.04176,0.0,0.0,0.08928,152.64,BreakFast
+Cheese (cheddar, Swiss),0.25,cup shredded,0.0,0.0,0.0,0.0,113.8475,BreakFast
+Cheese (cheddar, Swiss),1.0,cubic inch,0.0,0.0,0.0,0.0,68.51,BreakFast
+Feta or goat cheese,0.25,cup crumbled,0.0,0.0,0.0,0.0,99.0,BreakFast
+Feta or goat cheese,1.0,wedge (wedge=1.3 oz),0.0,0.0,0.0,0.0,100.32,BreakFast
+Mozzarella cheese (part skim),1.0,slice (slice = 1 oz),0.0,0.0,0.0,0.0,85.617,BreakFast
+Low fat cheddar or Swiss,0.25,cup, shredded,0.0,0.0,0.0,0.0,48.0,BreakFast
+Low fat cheddar or Swiss,1.0,cubic inch,0.0,0.0,0.0,0.0,27.0,BreakFast
+Cottage cheese, creamed,0.5,cup,0.0,0.0,0.0,0.0,108.15,BreakFast
+Ricotta cheese,0.25,cup,0.0,0.0,0.0,0.0,95.94,BreakFast
+Lowfat cottage cheese,0.5,cup,0.0,0.0,0.0,0.0,81.36,BreakFast
+Cream cheese (regular),1.0,Tablespoon,0.0,0.0,0.0,0.0,50.605,Lunch
+Cream cheese (regular),1.0,Tablespoon, whipped,0.0,0.0,0.0,0.0,34.9,Lunch
+Cream cheese (regular),1.0,individual container,0.0,0.0,0.0,0.0,98.9415,Lunch
+Low fat cream cheese,1.0,Tablespoon,0.0,0.0,0.0,0.0,34.65,Lunch
+Low fat cream cheese,1.0,Tablespoon, whipped,0.0,0.0,0.0,0.0,23.1,Lunch
+American cheese (processed),1.0,slice (slice = 3/4 oz),0.0,0.0,0.0,0.0,70.56,BreakFast
+American cheese (processed),0.25,cup shredded,0.0,0.0,0.0,0.0,94.92,BreakFast
+American cheese (processed),1.0,cubic inch,0.0,0.0,0.0,0.0,58.8,BreakFast
+Fat-free American cheese,1.0,slice (slice = 3/4 oz),0.0,0.0,0.0,0.0,31.08,BreakFast
+Fat-free American cheese,0.25,cup shredded,0.0,0.0,0.0,0.0,41.81,BreakFast
+Fat-free American cheese,1.0,cubic inch,0.0,0.0,0.0,0.0,23.976,BreakFast
+Cheese spread or dip ,1.0,slice Velveeta,0.0,0.0,0.0,0.0,100.24333,BreakFast
+Cheese spread or dip ,4.0,Tablespoons,0.0,0.0,0.0,0.0,176.9,BreakFast
+Cream cheese dip,2.0,Tablespoons,0.0,0.0036,0.0,0.0066,106.2,Lunch
+Cheese sauce,0.25,cup,0.12636,0.0,0.0,0.0,109.35,BreakFast
+Cheese sauce, low fat,0.25,cup,0.11178,6.1E-4,0.0,0.00182,79.5825,BreakFast
+Grilled steak (eat lean only),4.0,ounces cooked, no bone,0.0,0.0,0.0,4.0,181.24,Lunch
+Fried steak (eat lean only),4.0,ounces cooked, no bone,0.0,0.0,0.0,4.0,211.6,Lunch
+BBQ short ribs with sauce,1.0,medium rib,0.06375,0.00459,0.0,0.93534,107.61,Lunch
+BBQ short ribs with sauce,1.0,large rib,0.0875,0.0063,0.0,1.2838,147.7,Lunch
+BBQ short ribs with sauce,1.0,small rib,0.0275,0.00198,0.0,0.40348,46.42,Lunch
+Roast beef (eat lean & fat),1.0,medium slice,0.0,0.0,0.0,1.34988,111.72,Lunch
+Roast beef (eat lean & fat),1.0,thick slice,0.0,0.0,0.0,2.02482,167.58,Lunch
+Roast beef (eat lean & fat),1.0,thin slice,0.0,0.0,0.0,0.67494,55.86,Lunch
+Roast beef (eat lean only),1.0,medium slice,0.0,0.0,0.0,1.48134,82.74,Lunch
+Roast beef (eat lean only),1.0,thick slice,0.0,0.0,0.0,2.22201,124.11,Lunch
+Roast beef (eat lean only),1.0, thin slice,0.0,0.0,0.0,0.74067,41.37,Lunch
+Beef brisket,1.0,medium slice, 1/4 "" thick,0.0,0.0,0.0,1.4448,96.6,Lunch
+Beef brisket,1.0,thick slice,0.0,0.0,0.0,2.1672,144.9,Lunch
+Beef brisket,1.0, thin slice,0.0,0.0,0.0,0.7224,48.3,Lunch
+Beef brisket,4.0,ounces after cooking,0.0,0.0,0.0,4.0,211.6,Lunch
+Ground beef (75% lean, regular),1.0,ounce after cooking,0.0,0.0,0.0,0.88648,77.28,Lunch
+Ground beef (75% lean, regular),1.0,ounce raw (cooked yield),0.0,0.0,0.0,0.66486,57.96,Lunch
+Ground beef (75% lean, regular),1.0,medium meatball,0.0,0.0,0.0,0.88648,77.28,Lunch
+Ground beef (75% lean, regular),1.0,small patty (5 per pound),0.0,0.0,0.0,2.15288,187.68,Lunch
+Diet pudding (instant or canned),0.5,cup (4 fl oz),0.4901,0.0,0.0,0.0,105.3,BreakFast
+Pudding (instant or canned),0.5,cup (4 fl oz),0.24665,0.0,0.0,0.0,133.11,BreakFast
+Pudding, no sugar added,0.5,cup (4 fl oz),0.54125,0.0,0.0,0.0,81.25,BreakFast
+White sauce (cream sauce),0.25,cup,0.23438,0.0,0.0,0.0,90.625,BreakFast
+Milk gravy,0.25,cup,0.195,0.0,0.0,0.0,88.125,BreakFast
+Cheese (cheddar, Swiss),1.0,slice (slice = 1 oz),0.0,0.0,0.0,0.0,114.2505,BreakFast
+Turkey lunch meat, fat free,1.0,ounce,0.0,0.0,0.0,0.9884,28.56,Lunch
+Coffee,1.0,fast food (16 fl oz order),0.0,0.0,0.0,0.0,14.2,Lunch
+Latte,1.0,medium (14 fl oz order),0.0,0.0,0.0,0.0,142.8,BreakFast
+Latte,1.0,cup,0.0,0.0,0.0,0.0,71.4,BreakFast
+Latte,1.0,large (17 fl oz order),0.0,0.0,0.0,0.0,169.75,BreakFast
+Latte,1.0,small (11 fl oz order),0.0,0.0,0.0,0.0,107.1,BreakFast
+Cappuccino,1.0,medium (17 fl oz order),0.0,0.0,0.0,0.0,160.38,BreakFast
+Cappuccino,1.0,large (20 fl oz order),0.0,0.0,0.0,0.0,190.74,BreakFast
+Cappuccino,1.0,mug (8 fl oz order),0.0,0.0,0.0,0.0,79.2,BreakFast
+Cappuccino,1.0,small (13 fl oz order),0.0,0.0,0.0,0.0,120.45,BreakFast
+Turkey breast lunch meat, fat free,1.0,ounce,0.0,0.0,0.0,0.9884,23.52,Lunch
+Tofu, firm,0.25,cup,0.0,0.0,0.0,0.0,44.1,Lunch
+Tofu, firm,0.25,block (3 oz),0.0,0.0,0.0,0.0,56.7,Lunch
+Fried tofu,0.25,cup,0.0,0.0,0.0,0.0,168.02,Lunch
+Fried tofu,1.0,piece,0.0,0.0,0.0,0.0,35.23,Lunch
+Ground beef (95% lean),1.0,medium patty (4 per pound),0.0,0.0,0.0,3.6006,167.28,Lunch
+Ground beef (95% lean),1.0,ounce after cooking,0.0,0.0,0.0,0.9884,45.92,Lunch
+Ground beef (95% lean),1.0,ounce raw (cooked yield),0.0,0.0,0.0,0.9178,42.64,Lunch
+Ground beef (95% lean),1.0,medium meatball,0.0,0.0,0.0,0.9884,45.92,Lunch
+Ground beef (95% lean),1.0,small patty (5 per pound),0.0,0.0,0.0,2.8593,132.84,Lunch
+Ground beef (90% lean),1.0,medium patty (4 per pound),0.0,0.0,0.0,3.43827,201.96,Lunch
+Ground beef (90% lean),1.0,ounce after cooking,0.0,0.0,0.0,0.97244,57.12,Lunch
+Ground beef (90% lean),1.0,ounce raw (cooked yield),0.0,0.0,0.0,0.86825,51.0,Lunch
+Ground beef (90% lean),1.0,medium meatball,0.0,0.0,0.0,0.97244,57.12,Lunch
+Ground beef (90% lean),1.0,small patty (5 per pound),0.0,0.0,0.0,2.74367,161.16,Lunch
+Whole milk,1.0,cup,0.0,0.0,0.0,0.0,146.4,BreakFast
+Whole milk,8.0,fluid ounces,0.0,0.0,0.0,0.0,146.4,BreakFast
+2% milk (reduced fat),1.0,cup,0.0,0.0,0.0,0.0,122.0,BreakFast
+2% milk (reduced fat),8.0,fluid ounces,0.0,0.0,0.0,0.0,122.0,BreakFast
+1% milk (low fat),1.0,cup,0.0,0.0,0.0,0.0,102.48,BreakFast
+1% milk (low fat),8.0,fluid ounces,0.0,0.0,0.0,0.0,102.48,BreakFast
+Fat free milk (skim),1.0,cup,0.0,0.0,0.0,0.0,83.3,BreakFast
+Fat free milk (skim),8.0,fluid ounces,0.0,0.0,0.0,0.0,83.232,BreakFast
+Low lactose lowfat (1%) milk,1.0,cup,0.0,0.0,0.0,0.0,102.48,BreakFast
+Low lactose lowfat (1%) milk,8.0,fluid ounces,0.0,0.0,0.0,0.0,102.48,BreakFast
+Low lactose fat free (skim) milk,1.0,cup,0.0,0.0,0.0,0.0,83.3,BreakFast
+Low lactose fat free (skim) milk,8.0,fluid ounces,0.0,0.0,0.0,0.0,83.232,BreakFast
+Low lactose reduced fat (2%) milk,1.0,cup,0.0,0.0,0.0,0.0,122.0,BreakFast
+Low lactose reduced fat (2%) milk,8.0,fluid ounces,0.0,0.0,0.0,0.0,122.0,BreakFast
+Low lactose whole milk,1.0,cup,0.0,0.0,0.0,0.0,146.4,BreakFast
+Low lactose whole milk,8.0,fluid ounces,0.0,0.0,0.0,0.0,146.4,BreakFast
+Buttermilk,1.0,cup,0.0,0.0,0.0,0.0,98.0,BreakFast
+Buttermilk,8.0,fluid ounces,0.0,0.0,0.0,0.0,97.92,BreakFast
+Nonfat dry milk, reconstituted,1.0,cup,0.0,0.0,0.0,0.0,80.85,BreakFast
+Nonfat dry milk, reconstituted,8.0,fluid ounces,0.0,0.0,0.0,0.0,80.784,BreakFast
+Soymilk,1.0,cup,0.0,0.0,0.0,0.0,98.0,Lunch
+Soymilk,8.0,fluid ounces,0.0,0.0,0.0,0.0,98.0,Lunch
+Flavored soymilk,1.0,cup,0.0,0.0,0.0,0.0,117.6,Lunch
+Plain yogurt, whole milk,1.0,8 oz container,0.0,0.0,0.0,0.0,138.47,BreakFast
+Plain yogurt, fat free,1.0,8 oz container,0.0,0.0,0.0,0.0,127.12,BreakFast
+Flavored yogurt, low fat,1.0,8 oz container,0.0,0.0,0.0,0.0,192.95,BreakFast
+Flavored yogurt, fat-free sugar-free,1.0,8 oz container,0.00908,0.0,0.0,0.0,97.61,BreakFast
+Fruit yogurt, whole milk,1.0,6 oz container,0.0,0.0,0.0578,0.0,202.3,BreakFast
+Fruit yogurt, low fat,1.0,6 oz container,0.0,0.0,0.0578,0.0,173.4,BreakFast
+Fruit yogurt, fat-free sugar-free,1.0,6 oz container,0.0,0.0,0.1921,0.0,86.7,BreakFast
+Frozen yogurt, low fat,1.0,cup,0.0,0.0,0.0,0.0,214.0,BreakFast
+Frozen yogurt, low fat sugar free,1.0,cup,1.52892,0.0,0.0,0.0,199.02,BreakFast
+Chocolate milk, whole milk,1.0,cup (1 school carton),0.0,0.0,0.0,0.0,207.5,BreakFast
+Chocolate milk, 2% (reduced fat),1.0,cup (1 school carton),0.0,0.0,0.0,0.0,175.0,BreakFast
+Chocolate milk, fat free (skim),1.0,cup (1 school carton),0.0,0.0,0.0,0.0,140.0,BreakFast
+Chocolate milk, 1% (low fat),1.0,cup (1 school carton),0.0,0.0,0.0,0.0,157.5,BreakFast
+Instant cocoa (with water),1.0,packet dry mix with water,0.0,0.0,0.0,0.0,113.3,BreakFast
+Instant cocoa, diet (with water),1.0,packet dry mix with water,0.25807,0.0,0.0,0.0,57.13,BreakFast
+Malted milk (Ovaltine),1.0,cup,0.1833,0.0,0.0,0.0,173.9,BreakFast
+Milk shake, low fat,1.0,small shake (12 fl oz),0.0,0.0,0.0,0.0,198.64,BreakFast
+fruit smoothie made with milk,1.0,cup,0.0,0.0,0.56358,0.0,197.96,Dinner
+Chocolate flavored drink,1.0,bottle (9 fl oz),0.0,0.0,0.0,0.0,128.78,BreakFast
+Chocolate flavored drink,1.0,drink box,0.0,0.0,0.0,0.0,114.68,BreakFast
+Meal replacement drink (Slim Fast),1.0,cup,0.0,0.0,0.0,0.0,173.6,BreakFast
+Dry milk powder, low fat,0.25,cup,0.0,0.0,0.0,0.0,109.8,BreakFast
+Meal replacement powder (Slim Fast),1.0,tablespoon,0.03825,0.0,0.0,0.0,48.6,BreakFast
+Meal replacement powder (Slim Fast),1.0,scoop/dip,0.08415,0.0,0.0,0.0,106.92,BreakFast
+Light cream,2.0,Tablespoons (1 fl oz),0.0,0.0,0.0,0.0,58.5,Lunch
+Half & Half,2.0,Tablespoons (1 fl oz),0.0,0.0,0.0,0.0,39.26,Lunch
+Half & Half,1.0,individual container,0.0,0.0,0.0,0.0,19.5,Lunch
+Whipped cream, sweetened,0.25,cup,0.0,0.0,0.0,0.0,103.53,Lunch
+Coffee Mate (liquid),2.0,Tablespoons (1 fl oz),0.0,0.0,0.0,0.0,40.8,Lunch
+Coffee Mate Lite (liquid),2.0,Tablespoons (1 fl oz),0.0,0.0,0.0,0.0,20.7,Lunch
+Coffee Mate (powder),1.0,packet,0.0,0.0,0.0,0.0,16.38,Lunch
+Sour cream,1.0,individual container,0.0,0.0,0.0,0.0,64.2,Lunch
+Sour cream, low fat or light,2.0,Tablespoons,0.0,0.0,0.0,0.0,43.52,Lunch
+Ground beef (80% lean),1.0,ounce after cooking,0.0,0.0,0.0,0.89628,75.32,Lunch
+Ground beef (80% lean),1.0,ounce raw (cooked yield),0.0,0.0,0.0,0.70422,59.18,Lunch
+Ground beef (80% lean),1.0,medium meatball,0.0,0.0,0.0,0.89628,75.32,Lunch
+Ground beef (80% lean),1.0,small patty (5 per pound),0.0,0.0,0.0,2.27271,190.99,Lunch
+Ground beef (85% lean),1.0,ounce after cooking,0.0,0.0,0.0,0.92148,69.44,Lunch
+Ground beef (85% lean),1.0,ounce raw (cooked yield),0.0,0.0,0.0,0.78984,59.52,Lunch
+Ground beef (85% lean),1.0,medium meatball,0.0,0.0,0.0,0.92148,69.44,Lunch
+Ground beef (85% lean),1.0,small patty (5 per pound),0.0,0.0,0.0,2.53407,190.96,Lunch
+Beef jerky,1.0,piece (Slim Jim),0.0,0.0,0.0,0.27773,39.36,Lunch
+Beef jerky,0.25,cup, pieces,0.0,0.0,0.0,0.65093,92.25,Lunch
+Pastrami (beef),1.0,slice (slice = 1 oz),0.0,0.0,0.0,0.77084,97.72,Lunch
+Tea (unsweetened),1.0,teacup (cup = 6 fl oz),0.0,0.0,0.0,0.0,1.78,Lunch
+Tea (unsweetened),1.0,mug (mug = 8 fl oz),0.0,0.0,0.0,0.0,2.37,Lunch
+Tea (unsweetened),12.0,fluid ounces,0.0,0.0,0.0,0.0,3.56,Lunch
+Soft drink, diet,1.0,small (drink = 16 fl oz),0.0,0.0,0.0,0.0,4.73,Lunch
+Soft drink, diet,1.0,medium (drink = 22 fl oz),0.0,0.0,0.0,0.0,6.5,Lunch
+Soft drink, diet,1.0,large (drink = 32 fl oz),0.0,0.0,0.0,0.0,9.46,Lunch
+Soft drink, diet,1.0,extra large (drink = 44 fl oz),0.0,0.0,0.0,0.0,13.01,Lunch
+Fruit drink (punch, ade, or cooler),1.0,cup,0.0,0.0,0.10664,0.0,119.04,Dinner
+Fruit drink (punch, ade, or cooler),1.0,Capri Sun container,0.0,0.0,0.08987,0.0,100.32,Dinner
+Fruit drink (punch, ade, or cooler),1.0,drink box (box - 8 fl oz),0.0,0.0,0.11266,0.0,125.76,Dinner
+Fruit drink (punch, ade, or cooler),1.0,fun size (box = 4 fl oz),0.0,0.0,0.05633,0.0,62.88,Dinner
+Lemonade,1.0,cup,0.0,0.0,0.11408,0.0,99.2,Dinner
+Lemonade,1.0,Snapple bottle,0.0,0.0,0.22816,0.0,198.4,Dinner
+Crystal Lite (low-calorie fruit drink),1.0,cup,0.0,0.0,0.4296,0.0,45.6,Dinner
+Cranberry juice cocktail,1.0,cup,0.0,0.0,0.77418,0.0,144.21,Dinner
+Gatorade or Powerade (sports drink),1.0,cup,0.0,0.0,0.0,0.0,60.0,Lunch
+Pedialyte,1.0,cup,0.0,0.0,0.0,0.0,25.0,Lunch
+Water,1.0,cup,0.0,0.0,0.0,0.0,0.0,BreakFast
+Water,2.0,fluid ounces ,0.0,0.0,0.0,0.0,0.0,BreakFast
+Fitness Water (Propel),1.0,cup (8 fl oz),0.0,0.0,0.0,0.0,11.85,Lunch
+Fitness Water (Propel),1.0,bottle (16.9 fl oz),0.0,0.0,0.0,0.0,25.0,Lunch
+Fitness Water (Propel),1.0,sports bottle (23.7 fl oz),0.0,0.0,0.0,0.0,35.1,Lunch
+Plain yogurt, whole milk,1.0,ounce,0.0,0.0,0.0,0.0,17.30875,BreakFast
+Plain yogurt, fat free,1.0,ounce,0.0,0.0,0.0,0.0,15.89,BreakFast
+Flavored yogurt, whole milk,1.0,ounce,0.0,0.0,0.0,0.0,28.65875,BreakFast
+Flavored yogurt, low fat,1.0,ounce,0.0,0.0,0.0,0.0,24.11875,BreakFast
+Flavored yogurt, fat-free sugar-free,1.0,ounce,0.00114,0.0,0.0,0.0,12.20125,BreakFast
+Fruit yogurt, whole milk,1.0,ounce,0.0,0.0,0.00963,0.0,33.71667,BreakFast
+Fruit yogurt, low fat,1.0,ounce,0.0,0.0,0.00963,0.0,28.9,BreakFast
+Fruit yogurt, fat-free sugar-free,1.0,ounce,0.0,0.0,0.03202,0.0,14.45,BreakFast
+Mixed nuts,1.0,ounce,0.0,0.0,0.0,2.00362,175.0,Lunch
+Sesame seeds,1.0,Tablespoon,0.0,0.0,0.0,0.66141,53.0,Lunch
+Flax seed,1.0,Tablespoon,0.0,0.0,0.0,0.63936,45.0,Lunch
+Wheat cracker,4.0,Wheatsworth crackers,0.516,0.0,0.0,0.0,56.0,BreakFast
+Wheat cracker,4.0,Whole Wheat Club Crackers,0.6,0.0,0.0,0.0,68.0,BreakFast
+Wheat cracker,0.25,cup,0.484,0.0,0.0,0.0,53.25,BreakFast
+Bulgur, no fat added,0.5,cup, cooked,1.0,0.0,0.0,0.0,56.0,BreakFast
+Couscous, no fat added,0.5,cup, cooked,1.0,0.0,0.0,0.0,87.0,BreakFast
+Raisins,1.0,Tablespoon,0.0,0.0,0.12497,0.0,27.0,Dinner
+Romaine lettuce,1.0,medium leaf,0.0,0.163,0.0,0.0,2.0,Lunch
+Vegetable oil (canola, corn, olive, etc),1.0,Teaspoon,0.0,0.0,0.0,0.0,40.0,Lunch
+Coffee Mate Lite  (powder),1.0,packet,0.0,0.0,0.0,0.0,12.93,Lunch
+Cool Whip,0.25,cup,0.0,0.0,0.0,0.0,59.625,Lunch
+Lowfat Cool Whip,0.25,cup,0.0,0.0,0.0,0.0,41.25,Lunch
+Sour cream,2.0,Tablespoons,0.0,0.0,0.0,0.0,61.525,Lunch
+Mozzarella cheese (part skim),0.25,cup shredded,0.0,0.0,0.0,0.0,85.315,BreakFast
+Mozzarella cheese (part skim),1.0,cubic inch,0.0,0.0,0.0,0.0,53.152,BreakFast
+Mozzarella cheese (part skim),1.0,string cheese stick,0.0,0.0,0.0,0.0,84.56,BreakFast
+Parmesan or Romano cheese,1.0,tablespoon,0.0,0.0,0.0,0.0,21.55,BreakFast
+Low fat cheddar or Swiss,1.0,slice (slice = 1 oz),0.0,0.0,0.0,0.0,50.0,BreakFast
+Jello,0.5,cup,0.0,0.0,0.0,0.0,74.4,Lunch
+Jello with fruit,0.5,cup,0.0,0.0,0.2904,0.0,78.0,Dinner
+Sugar-free Jello (diet),1.0,snack-size package (3.5 oz),0.04653,0.0,0.0,0.0,3.96,BreakFast
+Sugar-free Jello (diet),0.5,cup,0.0564,0.0,0.0,0.0,4.8,BreakFast
+Sugar-free Jello with fruit (diet),0.5,cup,0.0336,0.0,0.3192,0.0,39.6,Dinner
+Fruit ice (Italian fruit ice),0.5,cup,0.0,0.0,0.01351,0.0,123.52,Dinner
+Milk chocolate bar or candy (plain),1.0,solid egg,0.0,0.0,0.0,0.0,29.425,BreakFast
+Milk chocolate bar or candy (plain),1.0,miniature bar (.5 oz),0.0,0.0,0.0,0.0,74.9,BreakFast
+Krackel or Crunch Bar,1.0,bar (1.2 oz),0.00918,0.0,0.0,0.0,168.64,BreakFast
+Krackel or Crunch Bar,1.0,solid egg,0.00189,0.0,0.0,0.0,34.72,BreakFast
+Krackel or Crunch Bar,1.0,miniature bar (.5 oz),0.00378,0.0,0.0,0.0,69.44,BreakFast
+Milk chocolate fruit & nut bar,1.0,bar (1.2 oz),0.0,0.0,0.05511,0.2343,150.48,BreakFast
+Milk chocolate fruit & nut bar,0.25,large (6 oz) bar,0.0,0.0,0.07098,0.30175,193.8,BreakFast
+Milk chocolate fruit & nut bar,1.0,piece,0.0,0.0,0.01837,0.0781,50.16,BreakFast
+Milk chocolate bar with almonds,1.0,bar (1.45 oz),0.0,0.0,0.0,0.31447,215.66,BreakFast
+Milk chocolate bar with almonds,1.0,miniature bar (.5 oz),0.0,0.0,0.0,0.10738,73.64,BreakFast
+Chocolate chips,0.25,cup,0.0,0.0,0.0,0.0,201.18,Lunch
+Chocolate chips,20.0,morsels,0.0,0.0,0.0,0.0,47.9,Lunch
+Dark chocolate candy bar,1.0,bar (1.45 oz),0.0,0.0,0.0,0.0,207.05,Lunch
+Dark chocolate candy bar,0.25,large bar (4 oz),0.0,0.0,0.0,0.0,142.6625,Lunch
+Coconut candy, chocolate-covered,1.0,fun size bar,0.0,0.0,0.0,0.3816,97.2,Lunch
+Coconut candy, chocolate-covered,1.0,small egg (1 oz),0.0,0.0,0.0,0.53424,136.08,Lunch
+Chocolate-covered candy,1.0,butter cream,0.0,0.0,0.0,0.0,73.2,Lunch
+Chocolate-covered candy,1.0,cherry,0.0,0.0,0.0,0.0,51.24,Lunch
+Chocolate-covered candy,1.0,Cadbury egg (1 oz),0.0,0.0,0.0,0.0,106.14,Lunch
+Chocolate-covered candy,1.0,large York pattie,0.0,0.0,0.0,0.0,153.72,Lunch
+Chocolate-covered candy,1.0,piece (0.6 oz),0.0,0.0,0.0,0.0,62.22,Lunch
+Chocolate-covered candy,1.0,small York pattie,0.0,0.0,0.0,0.0,51.972,Lunch
+Fruit roll-up (fruit snack chews),1.0,pouch (1 oz),0.51856,0.0,0.09016,0.0,103.88,Dinner
+Fruit roll-up (fruit snack chews),1.0,3-foot roll,0.38892,0.0,0.06762,0.0,77.91,Dinner
+Snickers candy bar,1.0,miniature bar (.3 oz),0.0,0.0,0.0,0.11844,43.11,Lunch
+Butterfinger candy bar,0.25,cup Butterfinger BB's,0.11528,0.0,0.0,0.51374,207.06,Lunch
+Butterfinger candy bar,1.0,fun size bar (0.6 oz),0.05565,0.0,0.0,0.24801,99.96,Lunch
+Marshmallows,1.0,regular,0.07956,0.0,0.0,0.0,22.896,BreakFast
+Marshmallows,0.25,cup of miniatures,0.12708,0.0,0.0,0.0,36.57,BreakFast
+Marshmallows,1.0,Peep chicken or bunny,0.0884,0.0,0.0,0.0,25.44,BreakFast
+Milky Way candy bar,1.0,miniature bar (0.3 oz),0.02185,0.0,0.0,0.0,35.955,BreakFast
+M&M's candies with peanuts,1.0,fun size package (0.7 oz),0.0,0.0,0.0,0.42336,123.84,Lunch
+Peanut brittle,1.0,medium piece (0.3 oz),0.0,0.0,0.0,0.18549,43.56,Lunch
+Peanut brittle,1.0,small piece (0.2 oz),0.0,0.0,0.0,0.09275,21.78,Lunch
+Peanut brittle,1.0,large piece (0.5 oz),0.0,0.0,0.0,0.26793,62.92,Lunch
+Peanut butter cups (Reese's),1.0,miniature cup,0.0,0.0,0.0,0.03913,36.05,BreakFast
+Hard candy,1.0,roll (0.9 oz, 12 pieces),0.0,0.0,0.0,0.0,102.44,Lunch
+Hard candy,1.0,ball,0.0,0.0,0.0,0.0,31.52,Lunch
+Hard candy,1.0,candy cane,0.0,0.0,0.0,0.0,59.1,Lunch
+Hard candy,1.0,fun size package,0.0,0.0,0.0,0.0,31.52,Lunch
+Hard candy,1.0,lollipop,0.0,0.0,0.0,0.0,82.74,Lunch
+Hard candy,1.0,mint,0.0,0.0,0.0,0.0,20.094,Lunch
+M&M's plain chocolate candies,1.0,fun size package (0.7 oz),0.1176,0.0,0.0,0.0,103.32,BreakFast
+Taffy,1.0,piece,0.03713,0.0,0.00188,0.00677,37.318,BreakFast
+Taffy,1.0,package (8 pieces),0.16195,0.0,0.0082,0.02952,162.77,BreakFast
+Dietetic hard candy,1.0,Sweet'n Low candy,0.0,0.0,0.0,0.0,14.25,Lunch
+Dietetic hard candy,0.25,cup hard candy,0.0,0.0,0.0,0.0,185.625,Lunch
+Dietetic hard candy,1.0,lollipop (.5 oz),0.0,0.0,0.0,0.0,52.5,Lunch
+Dietetic hard candy,1.0,cough drop,0.0,0.0,0.0,0.0,3.75,Lunch
+Dietetic chocolate-covered candy,1.0,section candy bar,0.02961,0.0,0.00518,0.08827,40.25,BreakFast
+Dietetic chocolate-covered candy,1.0,piece Peanut Butter Cups,0.03384,0.0,0.00592,0.10088,46.0,BreakFast
+Dietetic chocolate-covered candy,1.0,section chocolate wafers,0.02115,0.0,0.0037,0.06305,28.75,BreakFast
+Dietetic chocolate-covered candy,1.0,section Crunch Bar,0.02538,0.0,0.00444,0.07566,34.5,BreakFast
+Chewing gum (made with sugar),1.0,piece,0.0,0.0,0.0,0.0,9.88,Lunch
+Chewing gum (made with sugar),0.25,6-foot long tape,0.0,0.0,0.0,0.0,37.05,Lunch
+Chewing gum (made with sugar),1.0,gum ball,0.0,0.0,0.0,0.0,4.94,Lunch
+Chewing gum (sugar-free),1.0,piece,0.0,0.0,0.0,0.0,5.36,Lunch
+Coffee,1.0,coffee cup (cup = 6 fl oz),0.0,0.0,0.0,0.0,7.08,Lunch
+Coffee,1.0,mug ( mug = 8 fl oz),0.0,0.0,0.0,0.0,9.48,Lunch
+Tea (sweetened),1.0,teacup (cup = 6 fl oz),0.0,0.0,0.0,0.0,52.5,Lunch
+Tea (sweetened),1.0,mug (mug = 8 fl oz),0.0,0.0,0.0,0.0,70.0,Lunch
+Tea (sweetened),12.0,fluid ounces,0.0,0.0,0.0,0.0,105.0,Lunch
+Tonic water (quinine water),1.0,can,0.0,0.0,0.0,0.0,124.44,Lunch
+Tonic water (quinine water),1.0,cup,0.0,0.0,0.0,0.0,82.96,Lunch
+Club soda (seltzer),1.0,can,0.0,0.0,0.0,0.0,0.0,BreakFast
+Club soda (seltzer),1.0,cup,0.0,0.0,0.0,0.0,0.0,BreakFast
+Soft drink, regular,1.0,can,0.0,0.0,0.0,0.0,154.98,Lunch
+Soft drink, regular,1.0,bottle ( bottle = 16 fl oz),0.0,0.0,0.0,0.0,206.64,Lunch
+Soft drink, regular,1.0,small (drink = 16 fl oz),0.0,0.0,0.0,0.0,206.64,Lunch
+Soft drink, diet,1.0,can,0.0,0.0,0.0,0.0,3.55,Lunch
+Soft drink, diet,1.0,bottle ( bottle = 16 fl oz),0.0,0.0,0.0,0.0,4.73,Lunch
+Vegetable oil (canola, corn, olive, etc),1.0,Tablespoon,0.0,0.0,0.0,0.0,120.224,Lunch
+Blue cheese dressing,1.0,Tablespoon,0.0,0.0,0.0,0.03519,77.112,BreakFast
+French dressing,1.0,Tablespoon,0.0,0.00406,0.0,0.0,71.292,Lunch
+French dressing,1.0,packet,0.0,0.01144,0.0,0.0,201.08,Lunch
+Italian dressing (oil & vinegar),1.0,Tablespoon,0.0,0.0,0.0,0.0,42.777,Lunch
+Italian dressing (oil & vinegar),0.25,cup,0.0,0.0,0.0,0.0,170.9625,Lunch
+Italian dressing (oil & vinegar),1.0,packet (1.6 oz),0.0,0.0,0.0,0.0,128.04,Lunch
+Mayonnaise, regular,1.0,Tablespoon,0.0,0.0,0.0,0.02346,98.946,Lunch
+Mayonnaise, regular,1.0,packet,0.0,0.0,0.0,0.0204,86.04,Lunch
+Miracle whip salad dressing,1.0,Tablespoon,0.03793,0.0,0.0,0.00956,57.33,BreakFast
+Miracle whip salad dressing,1.0,packet,0.03096,0.0,0.0,0.0078,46.8,BreakFast
+Creamy dressing (ranch),1.0,Tablespoon,0.0,0.00191,0.0,0.0,71.442,Lunch
+Creamy dressing (ranch),1.0,packet,0.0,0.00572,0.0,0.0,213.84,Lunch
+Sweet & sour dressing,1.0,Tablespoon,0.0,0.00265,0.0,0.0,2.34,Lunch
+Sweet & sour dressing,0.25,cup,0.0,0.01063,0.0,0.0,9.375,Lunch
+Thousand island dressing,1.0,Tablespoon,0.0,0.01513,0.0,0.0064,57.72,Lunch
+Thousand island dressing,1.0,packet,0.0,0.04268,0.0,0.01804,162.8,Lunch
+Low-calorie salad dressing,1.0,Tablespoon,0.0,0.00875,0.0,8.1E-4,23.814,Lunch
+Low-calorie salad dressing,0.25,cup,0.0,0.0351,0.0,0.00325,95.55,Lunch
+Low-calorie mayonnaise,0.25,cup,0.40125,0.0,0.00313,0.00813,145.0,BreakFast
+Fat-free Italian dressing,1.0,Tablespoon,0.0,0.0,4.2E-4,0.0,6.58,BreakFast
+Fat-free Italian dressing,1.0,packet,0.0,0.0,0.00132,0.0,20.68,BreakFast
+Fat-free thousand island dressing,1.0,Tablespoon,0.0,0.02576,0.00272,0.0,21.12,Lunch
+Fat-free thousand island dressing,1.0,packet,0.0,0.07084,0.00748,0.0,58.08,Lunch
+Fat-free ranch dressing,1.0,Tablespoon,0.0,0.01733,0.0,0.0,17.655,Lunch
+Fat-free ranch dressing,1.0,packet,0.0,0.0462,0.0,0.0,47.08,Lunch
+White sugar (granulated or lump),1.0,teaspoon,0.0,0.0,0.0,0.0,16.254,Lunch
+White sugar (granulated or lump),0.25,cup,0.0,0.0,0.0,0.0,193.5,Lunch
+White sugar (granulated or lump),1.0,lump (2 cubes),0.0,0.0,0.0,0.0,19.35,Lunch
+White sugar (granulated or lump),1.0,individual packet,0.0,0.0,0.0,0.0,23.22,Lunch
+Powdered sugar (confectioner's sugar),1.0,teaspoon,0.0,0.0,0.0,0.0,9.725,Lunch
+Powdered sugar (confectioner's sugar),0.25,cup,0.0,0.0,0.0,0.0,116.7,Lunch
+Brown sugar,1.0,teaspoon, packed,0.0,0.0,0.0,0.0,17.342,Lunch
+Calorie-free sweetener,1.0,individual packet,0.0295,0.0,0.0,0.0,1.408,BreakFast
+Calorie-free sweetener,1.0,teaspoon,0.14748,0.0,0.0,0.0,7.04,BreakFast
+Chocolate sauce (thin type),1.0,Tablespoon,0.0,0.0,0.0,0.0,52.452,Lunch
+Chocolate sauce (thin type),0.25,cup,0.0,0.0,0.0,0.0,209.25,Lunch
+Syrup (all types),1.0,Tablespoon,0.0,0.0,0.0,0.0,53.0,Lunch
+Syrup (all types),1.0,packet,0.0,0.0,0.0,0.0,156.35,Lunch
+Honey,1.0,Tablespoon,0.0,0.0,0.0,0.0,63.84,Lunch
+Butterscotch sauce,1.0,Tablespoon,0.0,0.0,0.0,0.0,62.964,BreakFast
+Fudge sauce (thick type),1.0,Tablespoon,0.0,0.0,0.0,0.0,72.66,BreakFast
+Fruit topping,1.0,Tablespoon,0.0,0.0,0.03307,0.0,53.848,Dinner
+Fruit topping,0.25,cup,0.0,0.0,0.1326,0.0,215.9,Dinner
+Marshmallow topping,1.0,Tablespoon,0.13293,0.0,0.0,0.0,19.964,BreakFast
+Marshmallow topping,0.25,cup,0.53064,0.0,0.0,0.0,79.695,BreakFast
+Nut topping (wet),1.0,Tablespoon,0.0,0.0,0.0,0.4746,89.6,Lunch
+Nutella (chocolate hazelnut spread),1.0,Tablespoon,0.0,0.0,0.0,0.09564,83.855,Lunch
+Chocolate icing,1.0,Tablespoon,0.0,0.0,0.0,0.0,67.252,BreakFast
+White icing,1.0,Tablespoon,0.0,0.0,0.0,0.0,80.396,BreakFast
+Dietetic syrup,1.0,Tablespoon,0.0,0.0,0.0,0.0,6.0,Lunch
+Dietetic syrup,0.25,cup,0.0,0.0,0.0,0.0,24.0,Lunch
+Dietetic topping,1.0,Tablespoon,0.0,0.0,0.02499,0.0,8.236,Dinner
+Dietetic topping,0.25,cup,0.0,0.0,0.09988,0.0,32.915,Dinner
+Sweet and sour sauce (Vietnamese Sauce),2.0,Tablespoons,0.1314,0.0,0.0,0.0,28.2,BreakFast
+Sweet and sour sauce (Vietnamese Sauce),1.0,fast food container,0.14454,0.0,0.0,0.0,31.02,BreakFast
+Vanilla or rum dessert sauce,0.25,cup,0.14124,0.0,0.0,0.0,95.04,BreakFast
+Vanilla or rum dessert sauce,1.0,Tablespoon,0.03531,0.0,0.0,0.0,23.76,BreakFast
+Duck sauce,1.0,packet,0.0208,0.0,0.02413,0.0,22.325,Dinner
+Duck sauce,0.25,cup,0.15878,0.0,0.18415,0.0,170.375,Dinner
+Duck sauce,1.0,Tablespoon,0.03942,0.0,0.04572,0.0,42.3,Dinner
+Jelly,1.0,Tablespoon,0.0,0.0,0.02432,0.0,50.54,Dinner
+Jelly,1.0,packet,0.0,0.0,0.01792,0.0,37.24,Dinner
+Jam or preserves,1.0,Tablespoon,0.0,0.0,0.03213,0.0,54.6,Dinner
+Jam or preserves,1.0,packet,0.0,0.0,0.02142,0.0,36.4,Dinner
+Dietetic jelly (low cal sweetener),1.0,Tablespoon,0.0,0.0,0.05659,0.0,24.816,Dinner
+All-fruit preserves (no added sugar),1.0,Tablespoon,0.0,0.0,0.0753,0.0,36.6,Dinner
+Jam or preserves (low sugar),1.0,Tablespoon,0.0,0.0,0.0753,0.0,25.702,Dinner
+Jello,1.0,snack-size package (3.5 oz),0.0,0.0,0.0,0.0,61.38,Lunch
+Popsicle,1.0,single stick,0.0,0.0,0.0,0.0,63.36,Lunch
+Popsicle,1.0,Kool Pop,0.0,0.0,0.0,0.0,23.76,Lunch
+Popsicle,1.0,double stick,0.0,0.0,0.0,0.0,92.16,Lunch
+Popsicle,1.0,Fla-Vor-Ice,0.0,0.0,0.0,0.0,30.96,Lunch
+Sugar-free popsicle (diet),1.0,single stick,0.2684,0.0,0.01232,0.0,16.72,BreakFast
+Sugar-free popsicle (diet),1.0,double stick,0.3904,0.0,0.01792,0.0,24.32,BreakFast
+Slurpee or snow cone,1.0,cup,0.0,0.0,0.02324,0.0,212.48,Dinner
+Chocolate-covered almonds,1.0,almond,0.0,0.0,0.0,0.14814,17.01,Lunch
+Tootsie roll,1.0,roll,0.0,0.0,0.0,0.0,139.3,BreakFast
+Tootsie roll,1.0,midgee roll,0.0,0.0,0.0,0.0,25.87,BreakFast
+Caramel candy,1.0,piece,0.0,0.0,0.0,0.0,26.74,BreakFast
+Twix cookie bars,1.0,fun size bar,0.10704,0.0,0.0,0.0,79.84,BreakFast
+Milk chocolate bar or candy (plain),1.0,bar (1.4 oz),0.0,0.0,0.0,0.0,214.0,BreakFast
+Yellow corn (corn on the cob),1.0,medium ear,0.0,0.61,0.0,0.0,107.0,Lunch
+Yellow corn (corn on the cob),1.0,baby ear,0.0,0.0488,0.0,0.0,8.56,Lunch
+Yellow corn (corn on the cob),1.0,small ear,0.0,0.5246,0.0,0.0,92.02,Lunch
+Cooked eggplant,0.5,cup, diced,0.0,0.50016,0.0,0.0,35.0,Lunch
+Cooked eggplant,1.0,slice,0.0,0.25,0.0,0.0,18.9,Lunch
+Cooked mushrooms,0.5,cup,0.0,0.49998,0.0,0.0,21.84,Lunch
+Cooked mushrooms,1.0,large cap,0.0,0.10256,0.0,0.0,4.48,Lunch
+Cooked mushrooms,10.0,slices,0.0,0.2564,0.0,0.0,11.2,Lunch
+Vegetable combo (Asian style),0.5,cup,0.0,0.49975,0.0,0.0,23.495,Lunch
+Vegetable-pasta combo with cream sauce,0.5,cup,0.24138,0.39204,0.0,0.0,84.24,Lunch
+Tofu and vegetables (Monk's food),0.5,cup,0.0,0.68244,0.0,0.0,83.66,Lunch
+Corn pudding (scalloped corn),0.5,cup,0.0,0.40981,0.0,0.35096,128.4,Lunch
+Corn fritter,1.0,fritter,0.84735,0.1085,0.0,0.1085,131.95,Lunch
+Corn fritter,0.5,cup,1.29523,0.16585,0.0,0.16585,201.695,Lunch
+Eggplant Parmesan,1.0,slice eggplant,0.11748,0.28556,0.0,0.01848,70.4,Lunch
+Stuffed mushrooms (bread, meat & cheese),1.0,stuffed cap,0.38976,0.29856,0.00552,0.0288,67.44,Lunch
+Breaded fried mushrooms,0.5,cup,0.51858,0.51188,0.0,0.04556,148.07,Lunch
+Breaded fried mushrooms,1.0,medium,0.10836,0.10696,0.0,0.00952,30.94,Lunch
+Breaded fried mushrooms,1.0,small,0.06192,0.06112,0.0,0.00544,17.68,Lunch
+Fried okra,0.5,cup,0.2898,0.28566,0.0,0.0253,86.94,Lunch
+Fried okra,1.0,pod,0.04725,0.04658,0.0,0.00413,14.175,Lunch
+Onion rings,1.0,fast food order,0.49536,0.35174,0.0,0.043,157.38,Lunch
+Onion rings,0.5,cup,0.13824,0.09816,0.0,0.012,43.92,Lunch
+Onion rings,5.0,medium rings,0.1728,0.1227,0.0,0.015,54.9,Lunch
+Breaded fried summer squash,0.5,cup,0.6413,0.5,0.0,0.0561,184.8,Lunch
+Breaded fried vegetable sticks,1.0,stick,0.252,0.05292,0.0,0.0,28.7,Lunch
+Vegetable tempura,1.0,piece,0.06272,0.03612,0.0,0.02142,11.27,Lunch
+Vegetable tempura,0.5,cup,0.28224,0.16254,0.0,0.09639,50.715,Lunch
+Vegetable-pasta combo,0.5,cup,0.29318,0.39319,0.0,0.0,52.745,Lunch
+Pickled beets,0.25,cup,0.0,0.25012,0.0,0.0,26.6175,Lunch
+Corn relish,0.25,cup,0.0,0.2499,0.0,0.0,50.8375,Lunch
+Kim chee (made from cabbage),0.25,cup,0.0,0.25013,0.0,0.0,7.875,Lunch
+Dill pickle,1.0,spear,0.0,0.2097,0.0,0.0,5.4,Lunch
+Dill pickle,1.0,large,0.0,0.94365,0.0,0.0,24.3,Lunch
+Dill pickle,1.0,medium,0.0,0.45435,0.0,0.0,11.7,Lunch
+Dill pickle,1.0,baby dill,0.0,0.19572,0.0,0.0,5.04,Lunch
+Dill pickle,5.0,slices,0.0,0.2097,0.0,0.0,5.4,Lunch
+Pickle relish,1.0,packet (2 teaspoons),0.0,0.0408,0.0,0.0,13.0,Lunch
+Pickle relish,0.25,cup,0.0,0.2499,0.0,0.0,79.625,Lunch
+Sweet pickle (gherkin),5.0,slices,0.0,0.1875,0.0,0.0,35.1,Lunch
+Sweet pickle (gherkin),1.0,gherkin,0.0,0.0375,0.0,0.0,7.02,Lunch
+Horseradish,1.0,Tablespoon,0.0,0.06255,0.0,0.0,7.2,Lunch
+Mustard,1.0,teaspoon,0.0,0.0,0.0,0.0,3.3,Lunch
+Mustard,1.0,packet,0.0,0.0,0.0,0.0,3.3,Lunch
+Green olives,5.0,small,0.0,0.10904,0.0,0.0,21.025,Lunch
+Green olives,0.25,cup,0.0,0.25,0.0,0.0,53.2875,Lunch
+Green olives,5.0,large,0.0,0.14664,0.0,0.0,28.275,Lunch
+Black olives,5.0,small,0.0,0.12597,0.0,0.0,17.85,Lunch
+Black olives,0.25,cup,0.0,0.25,0.0,0.0,38.5875,Lunch
+Black olives,5.0,large,0.0,0.17043,0.0,0.0,24.15,Lunch
+Tabasco sauce (hot sauce),1.0,packet,0.0,0.03794,0.0,0.0,1.86,Lunch
+Tabasco sauce (hot sauce),10.0,drops,0.0,0.00326,0.0,0.0,0.16,Lunch
+Cream of mushroom soup (made with milk),1.0,cup,0.51584,0.32488,0.0,0.0,190.96,BreakFast
+French onion soup,1.0,cup,0.02169,0.31812,0.0,0.0,57.84,Lunch
+Vegetable soup,1.0,cup,0.00482,0.4338,0.0,0.0,81.94,Lunch
+Minestrone soup,1.0,cup,0.11568,0.3856,0.0,0.0,84.35,Lunch
+Vegetable rice soup,1.0,cup,0.51815,0.63383,0.0,0.0,106.04,Lunch
+Vegetable beef soup (canned),1.0,cup,0.07076,0.39772,0.0,0.38064,78.0,Lunch
+Vegetable broth,1.0,cup,0.0288,0.012,0.0,0.0,16.8,Lunch
+Butter,1.0,pat (1 teaspoon),0.0,0.0,0.0,0.0,35.85,Lunch
+Butter,0.25,stick,0.0,0.0,0.0,0.0,202.5525,Lunch
+Butter,1.0,Tablespoon,0.0,0.0,0.0,0.0,101.814,Lunch
+Whipped butter,1.0,pat (1 teaspoon),0.0,0.0,0.0,0.0,27.246,Lunch
+Whipped butter,1.0,Tablespoon,0.0,0.0,0.0,0.0,67.398,Lunch
+Light butter,1.0,pat (1 teaspoon),0.0,0.0,0.0,0.0,24.95,Lunch
+Light butter,0.25,stick,0.0,0.0,0.0,0.0,140.9675,Lunch
+Light butter,1.0,Tablespoon,0.0,0.0,0.0,0.0,70.858,Lunch
+Stick margarine,1.0,pat (1 teaspoon),0.0,0.0,0.0,0.0,35.25,Lunch
+Stick margarine,0.25,stick,0.0,0.0,0.0,0.0,199.1625,Lunch
+Stick margarine,1.0,Tablespoon,0.0,0.0,0.0,0.0,100.11,Lunch
+Tub margarine,1.0,teaspoon,0.0,0.0,0.0,0.0,33.55176,Lunch
+Tub spread (margarine type),1.0,teaspoon,0.0,0.0,0.0,0.0,25.05789,Lunch
+Reduced-calorie spread (margarine type),1.0,pat (1 teaspoon),0.0,0.0,0.0,0.0,17.25,Lunch
+Reduced-calorie spread (margarine type),1.0,Tablespoon,0.0,0.0,0.0,0.0,50.025,Lunch
+Fat-free spread (margarine type),1.0,teaspoon,0.0,0.0,0.0,0.0,2.11992,Lunch
+Bacon grease (or meat drippings),1.0,Tablespoon,0.0,0.0,0.0,0.0,107.648,Lunch
+Vegetable shortening,1.0,teaspoon,0.0,0.0,0.0,0.0,37.34016,Lunch
+Lemon-butter sauce,1.0,Tablespoon,0.0,0.00738,0.00497,0.0,106.784,Lunch
+Hollandaise sauce,1.0,Tablespoon,0.0,0.0,0.00612,0.08807,67.137,Lunch
+Tartar sauce,1.0,Tablespoon,0.01771,0.00734,0.0,0.01541,74.304,Lunch
+Horseradish sauce,1.0,Tablespoon,0.0,5.6E-4,0.0,0.0,29.26,Lunch
+Horseradish sauce,0.25,cup,0.0,0.00224,0.0,0.0,117.04,Lunch
+Pesto sauce,1.0,Tablespoon,0.0,0.03957,0.0,0.19988,82.44133,Lunch
+Low-calorie salad dressing,1.0,packet,0.0,0.02376,0.0,0.0022,64.68,Lunch
+Fat-free mayonnaise-type dressing,1.0,Tablespoon,0.0752,0.0,0.0,0.0,13.44,BreakFast
+Fat-free mayonnaise-type dressing,0.25,cup,0.3008,0.0,0.0,0.0,53.76,BreakFast
+Low-calorie mayonnaise,1.0,Tablespoon,0.10015,0.0,7.8E-4,0.00203,36.192,BreakFast
+Raw tomatoes,1.0,wedge (1/4 of medium tomato),0.0,0.17236,0.0,0.0,5.58,Lunch
+Cooked tomatoes,0.5,cup,0.0,0.5004,0.0,0.0,21.6,Lunch
+Stewed tomatoes,0.5,cup,0.0,0.54188,0.0,0.0,33.15,Lunch
+Fried green tomatoes  ,3.0,slices,0.783,0.38664,0.0,0.13716,211.68,Lunch
+Fried green tomatoes  ,0.5,cup,0.6525,0.3222,0.0,0.1143,176.4,Lunch
+Fried green tomatoes  ,1.0,medium tomato,0.73225,0.36158,0.0,0.12827,197.96,Lunch
+Dried tomatoes,1.0,piece,0.0,0.07408,0.0,0.0,5.16,Lunch
+Dried tomatoes,0.25,cup,0.0,0.50004,0.0,0.0,34.83,Lunch
+Tomato juice,1.0,cup,0.0,0.99873,0.0,0.0,41.31,Lunch
+V-8 juice (tomato-vegetable juice),1.0,cup,0.0,1.00188,0.0,0.0,43.56,Lunch
+Ketchup (catsup),1.0,Tablespoon,0.0,0.0849,0.0,0.0,14.25,Lunch
+Salsa,0.25,cup,0.0,0.25,0.0,0.0,17.36,Lunch
+Salsa,1.0,Tablespoon,0.0,0.10608,0.0,0.0,4.48,Lunch
+Enchilada sauce,0.25,cup,0.0,0.19688,0.0,0.0,79.375,Lunch
+Green tomato-chile sauce,0.25,cup,0.0,0.25,0.0,0.0,45.51,Lunch
+Green tomato-chile sauce,1.0,Tablespoon,0.0,0.1098,0.0,0.0,11.1,Lunch
+Tomato sauce,0.5,cup,0.0,0.4998,0.0,0.0,39.2,Lunch
+Spaghetti sauce (meatless),0.5,cup,0.0,0.5,0.0,0.0,71.25,Lunch
+Spaghetti sauce, fat-free (meatless),0.5,cup,0.155,0.5,0.0,0.0,51.25,Lunch
+Barbeque sauce,1.0,fast-food container,0.0896,0.0064,0.0,0.0,24.0,BreakFast
+Barbeque sauce,4.0,Tablespoons,0.175,0.0125,0.0,0.0,46.875,BreakFast
+Raw cabbage,0.5,cup chopped,0.0,0.50018,0.0,0.0,13.795,Lunch
+Raw cabbage,0.5,cup shredded,0.0,0.5,0.0,0.0,10.85,Lunch
+Raw cabbage,1.0,leaf,0.0,0.25852,0.0,0.0,7.13,Lunch
+Raw cauliflower,0.5,cup,0.0,0.5,0.0,0.0,12.5,Lunch
+Raw cauliflower,1.0,floweret,0.0,0.13,0.0,0.0,3.25,Lunch
+Raw celery,0.5,cup diced,0.0,0.4998,0.0,0.0,8.4,Lunch
+Raw celery,0.5,cup sticks,0.0,0.51646,0.0,0.0,8.68,Lunch
+Raw celery,5.0,sticks or strips (4"" long),0.0,0.166,0.0,0.0,2.8,Lunch
+Chives,1.0,Tablespoon,0.0,0.06249,0.0,0.0,0.9,Lunch
+Cilantro,0.25,cup,0.0,0.125,0.0,0.0,0.92,Lunch
+Cilantro,1.0,sprig,0.0,0.03438,0.0,0.0,0.253,Lunch
+Cucumber,0.5,cup sliced,0.0,0.5,0.0,0.0,7.14,Lunch
+Cucumber,1.0,slice,0.0,0.05264,0.0,0.0,0.84,Lunch
+Cucumber,1.0,stick or strip (4"" long),0.0,0.06768,0.0,0.0,1.08,Lunch
+Garlic,1.0,clove,0.0,0.02205,0.0,0.0,4.47,Lunch
+Lettuce,1.0,cup, chopped or shredded,0.0,0.49995,0.0,0.0,5.5,Lunch
+Lettuce,1.0,medium leaf,0.0,0.07272,0.0,0.0,0.8,Lunch
+Mixed salad greens,1.0,cup, chopped or shredded,0.0,0.49995,0.0,0.0,8.8,Lunch
+Raw mushrooms,0.5,cup pieces or slices,0.0,0.50015,0.0,0.0,7.7,Lunch
+Raw mushrooms,1.0,medium,0.0,0.25722,0.0,0.0,3.96,Lunch
+Raw mushrooms,1.0,slice,0.0,0.08574,0.0,0.0,1.32,Lunch
+Raw onion,1.0,slice (1/8"" thick),0.0,0.0875,0.0,0.0,5.88,Lunch
+Raw onion,0.25,cup,0.0,0.25,0.0,0.0,16.8,Lunch
+Parsley,5.0,springs,0.0,0.00416,0.0,0.0,0.18,Lunch
+Raw hot pepper (jalapeno),1.0,pepper,0.0,0.30015,0.0,0.0,18.9,Lunch
+Raw hot pepper (jalapeno),0.25,cup,0.0,0.25013,0.0,0.0,15.75,Lunch
+Raw sweet pepper (bell pepper),1.0,slice or ring,0.0,0.0671,0.0,0.0,2.0,Lunch
+Raw sweet pepper (bell pepper),0.25,cup chopped,0.0,0.24995,0.0,0.0,7.45,Lunch
+Raw sweet pepper (bell pepper),0.5,cup sliced,0.0,0.5,0.0,0.0,9.2,Lunch
+Raw sweet pepper (bell pepper),1.0,medium,0.0,0.79849,0.0,0.0,23.8,Lunch
+Radish,1.0,slice,0.0,0.00862,0.0,0.0,0.16,Lunch
+Radish,0.25,cup slices,0.0,0.24998,0.0,0.0,4.64,Lunch
+Radish,1.0,medium,0.0,0.03879,0.0,0.0,0.72,Lunch
+Coleslaw,0.5,cup,0.0,0.5,0.0,0.02576,134.32,Lunch
+Coleslaw,1.0,fast-food order,0.0,0.7713,0.0,0.0252,131.4,Lunch
+Tossed salad (lettuce and vegetables),1.0,cup,0.0,0.56429,0.0,0.0,11.68,Lunch
+Artichoke,0.5,cup hearts,0.0,0.4998,0.0,0.0,42.0,Lunch
+Artichoke,1.0,medium globe,0.0,0.714,0.0,0.0,60.0,Lunch
+Artichoke,1.0,heart,0.0,0.16065,0.0,0.0,13.5,Lunch
+Cooked asparagus,5.0,medium spears,0.0,0.417,0.0,0.0,16.5,Lunch
+Cooked asparagus,0.5,cup,0.0,0.5004,0.0,0.0,19.8,Lunch
+Cooked asparagus,5.0,small or thin spears,0.0,0.3058,0.0,0.0,12.1,Lunch
+Cooked asparagus,5.0,large or thick spears,0.0,0.5282,0.0,0.0,20.9,Lunch
+Cooked green lima beans,0.5,cup,0.0,0.4998,0.0,0.0,103.7,Lunch
+Cooked green beans,0.5,cup,0.0,0.50018,0.0,0.0,13.5,Lunch
+Cooked bean sprouts,0.5,cup,0.0,0.50034,0.0,0.0,29.14,Lunch
+Cooked beets,0.5,cup slices,0.0,0.4998,0.0,0.0,37.4,Lunch
+Cooked beets,0.5,cup diced,0.0,0.46158,0.0,0.0,34.54,Lunch
+Cooked beets,0.5,cup whole,0.0,0.47922,0.0,0.0,35.86,Lunch
+Cooked Brussels sprouts,0.5,cup,0.0,0.49988,0.0,0.0,32.55,Lunch
+Cooked Brussels sprouts,1.0,sprout,0.0,0.13545,0.0,0.0,8.82,Lunch
+Cooked cabbage,0.5,cup,0.0,0.50025,0.0,0.0,16.5,Lunch
+Cooked cauliflower,0.5,cup flowerets,0.0,0.5,0.0,0.0,16.56,Lunch
+Cooked cauliflower,0.5,cup pieces,0.0,0.5,0.0,0.0,14.375,Lunch
+Cooked cauliflower,1.0,floweret,0.0,0.176,0.0,0.0,5.06,Lunch
+Cream style corn,0.5,cup,0.04992,0.49024,0.0,0.0,92.16,Lunch
+Yellow corn (corn on the cob),0.5,cup,0.0,0.5002,0.0,0.0,87.74,Lunch
+Yellow corn (corn on the cob),1.0,large ear,0.0,0.6954,0.0,0.0,121.98,Lunch
+Boiled or steamed okra,0.5,cup,0.0,0.5,0.0,0.0,17.6,Lunch
+Boiled or steamed okra,5.0,pods,0.0,0.33125,0.0,0.0,11.66,Lunch
+Cooked onions,0.5,cup,0.0,0.4998,0.0,0.0,46.2,Lunch
+Cooked onions,1.0,slice,0.0,0.05712,0.0,0.0,5.28,Lunch
+Blackeye peas,0.5,cup,0.0,0.49995,0.0,0.0,79.2,Lunch
+Cooked green peas,0.5,cup,0.0,0.5,0.0,0.0,66.4,Lunch
+Cooked sweet peppers,0.5,cup,0.0,0.4998,0.0,0.0,19.04,Lunch
+Cooked hot peppers,1.0,pepper,0.0,0.31605,0.0,0.0,18.06,Lunch
+Cooked hot peppers,1.0,Tablespoon,0.0,0.06248,0.0,0.0,3.57,Lunch
+Sauerkraut,0.5,cup,0.0,0.49984,0.0,0.0,13.49,Lunch
+Cooked snowpeas,0.5,cup,0.0,0.5,0.0,0.0,33.6,Lunch
+Zucchini or summer squash,0.5,cup,0.0,0.5004,0.0,0.0,18.0,Lunch
+Cooked turnip,0.5,cup pieces,0.0,0.49988,0.0,0.0,17.05,Lunch
+Cooked turnip,0.5,cup mashed,0.0,0.5,0.0,0.0,25.3,Lunch
+Water chestnut,0.5,cup,0.0,0.50007,0.0,0.0,39.5,Lunch
+Vegemite,1.0,teaspoon,0.0,0.0,0.0,0.0,9.48,Lunch
+Succotash (lima beans and corn),0.5,cup,0.0,0.50016,0.0,0.0,88.32,Lunch
+Bean salad (green, yellow, kidney beans),0.5,cup,0.0,0.2565,0.0,0.0,57.0,Lunch
+Sauteed green peppers & onions,0.5,cup,0.0,0.49968,0.0,0.0,39.6,Lunch
+Cooked mixed vegetables,0.5,cup,0.0,0.5005,0.0,0.0,59.15,Lunch
+Stew vegetables,0.5,cup,0.0,0.49995,0.0,0.0,57.75,Lunch
+Boiled potatoes,8.0,ounces raw,0.0,1.17944,0.0,0.0,156.4,Lunch
+Roasted potatoes,1.0,medium (2 per pound, raw),0.0,1.0742,0.0,0.0,179.47,Lunch
+Roasted potatoes,0.5,cup,0.0,0.5002,0.0,0.0,83.57,Lunch
+Roasted potatoes,1.0,small (6 ounces, raw),0.0,0.861,0.0,0.0,143.85,Lunch
+Roasted potatoes,4.0,ounces raw,0.0,0.5576,0.0,0.0,93.16,Lunch
+Potato chips, regular (all flavors),1.0,cup,0.0,0.3528,0.0,0.0,107.2,Lunch
+Potato chips, regular (all flavors),1.0,single serving bag (1 oz),0.0,0.49392,0.0,0.0,150.08,Lunch
+French fries, deep-fried,1.0,cup,0.0,0.36537,0.0,0.0,194.37,Lunch
+French fries, deep-fried,10.0,strips (2"" to 3-1/2""),0.0,0.3205,0.0,0.0,170.5,Lunch
+Home fries,0.5,cup,0.0,0.50052,0.0,0.0,179.45,Lunch
+Hash browns,0.5,cup,0.0,0.50025,0.0,0.0,157.325,Lunch
+Hash browns,1.0,patty (2.3 oz),0.0,0.4554,0.0,0.0,143.22,Lunch
+Potato skin with cheese & bacon,1.0,medium skin,0.0,0.3444,0.0,0.13398,166.74,Lunch
+Potato skin with cheese & bacon,1.0,small skin,0.0,0.287,0.0,0.11165,138.95,Lunch
+Mashed potatoes (with milk, no butter),0.5,cup,0.0,0.4998,0.0,0.0,85.05,Lunch
+Mashed potatoes (with milk and butter),0.5,cup,0.0,0.4998,0.0,0.0,109.2,Lunch
+Mashed potatoes (with butter),0.5,cup,0.0,0.4998,0.0,0.0,115.5,Lunch
+Tator tots,0.5,cup,0.0,0.49984,0.0,0.0,142.08,Lunch
+Tator tots,1.0,tater tot,0.0,0.0617,0.0,0.0,17.538,Lunch
+Stuffed baked potato (with sour cream),0.5,medium potato,0.0,0.708,0.0,0.0,158.12,Lunch
+Stuffed baked potato (with sour cream),0.5,small potato,0.0,0.564,0.0,0.0,125.96,Lunch
+Stuffed baked potato (with cheese),0.5,potato (frozen),0.0,0.959,0.0,0.0,194.6,Lunch
+Stuffed baked potato (with cheese),0.5,medium potato,0.0,0.70898,0.0,0.0,143.865,Lunch
+Stuffed baked potato (with cheese),0.5,small potato,0.0,0.56513,0.0,0.0,114.675,Lunch
+Potato salad with egg,0.5,cup,0.0,0.50373,0.0,0.20748,131.24,Lunch
+Potato salad,0.5,cup,0.0,0.5,0.0,0.01351,129.31,Lunch
+Potato pancake (latke),1.0,large pancake,0.08806,0.4958,0.0,0.12025,69.93,Lunch
+Potato pancake (latke),1.0,small pancake,0.05236,0.2948,0.0,0.0715,41.58,Lunch
+Potato pudding,0.5,cup,0.0,0.28728,0.0,0.28728,143.64,Lunch
+Cream of potato soup,1.0,cup,0.13888,0.36952,0.0,0.00248,136.4,BreakFast
+Cream of potato soup,1.0,can, ready to eat (13 oz),0.10332,0.2749,0.0,0.00185,101.475,BreakFast
+Plantain soup,1.0,cup,0.0343,0.3675,0.0,0.0,98.0,Lunch
+Plantain (boiled or baked),0.5,medium plantain,0.0,0.62068,0.0,0.0,136.88,Lunch
+Plantain (boiled or baked),0.5,cup,0.0,0.4997,0.0,0.0,110.2,Lunch
+Cassava,1.0,piece,0.0,0.1516,0.0,0.0,32.2,Lunch
+Cassava,0.5,cup, diced,0.0,0.50028,0.0,0.0,106.26,Lunch
+Taro (cocoyam), boiled,0.5,cup, pieces,0.0,0.4998,0.0,0.0,106.0,Lunch
+Romaine lettuce,1.0,cup,0.0,0.5,0.0,0.0,7.6,Lunch
+Caesar salad with dressing,1.0,cup,0.3186,0.62208,0.01944,0.2862,168.48,Lunch
+Greens, cooked without fat,0.5,cup,0.0,0.50005,0.0,0.0,18.25,Lunch
+Greens, cooked with fat,0.5,cup,0.0,0.49981,0.0,0.0,33.975,Lunch
+Raw spinach,1.0,cup,0.0,0.5001,0.0,0.0,6.9,Lunch
+Cooked spinach,0.5,cup,0.0,0.4997,0.0,0.0,30.4,Lunch
+Creamed spinach,0.5,cup,0.177,0.317,0.0,0.0,78.0,Lunch
+Raw broccoli,0.5,cup flowerets,0.0,0.5,0.0,0.0,12.07,Lunch
+Raw broccoli,0.5,cup chopped,0.0,0.49984,0.0,0.0,14.96,Lunch
+Raw broccoli,1.0,floweret,0.0,0.12496,0.0,0.0,3.74,Lunch
+Cooked broccoli,0.5,cup flowerets,0.0,0.5,0.0,0.0,16.975,Lunch
+Cooked broccoli,0.5,cup chopped,0.0,0.5,0.0,0.0,32.2,Lunch
+Cooked broccoli,1.0,floweret,0.0,0.0641,0.0,0.0,3.5,Lunch
+Broccoli with cheese sauce,0.5,cup,0.12882,0.4617,0.0,0.0,120.84,Lunch
+Broccoli with cheese sauce,1.0,stalk,0.05424,0.1944,0.0,0.0,50.88,Lunch
+Broccoli-rice casserole,0.5,cup,0.53124,0.26676,0.0,0.0,143.64,BreakFast
+Cream of broccoli soup,1.0,cup,0.37683,0.4029,0.0,0.0,206.19,BreakFast
+Broccoli cheese soup,1.0,cup,0.48756,0.27485,0.0,0.0,164.91,BreakFast
+Raw carrots,0.5,cup strips or slices,0.0,0.47641,0.0,0.0,25.01,Lunch
+Raw carrots,0.5,cup grated,0.0,0.42955,0.0,0.0,22.55,Lunch
+Raw carrots,1.0,baby carrot,0.0,0.0781,0.0,0.0,4.1,Lunch
+Carrot salad,0.5,cup,0.0,0.364,0.27038,0.0315,208.25,Lunch
+Cooked carrots,0.5,cup slices,0.0,0.49998,0.0,0.0,27.3,Lunch
+Cooked carrots,0.5,cup baby carrots,0.0,0.47755,0.0,0.0,26.075,Lunch
+Glazed carrots,0.5,cup,0.0,0.49991,0.0,0.0,100.625,Lunch
+Glazed carrots,0.5,cup baby carrots,0.0,0.53096,0.0,0.0,106.875,Lunch
+Carrot juice,1.0,cup,0.0,1.00064,0.0,0.0,94.4,Lunch
+Peas and carrots,0.5,cup,0.0,0.5,0.0,0.0,38.4,Lunch
+Baked winter squash,0.5,cup,0.0,0.5002,0.0,0.0,37.925,Lunch
+Baked winter squash,0.5,acorn squash,0.0,0.76,0.0,0.0,58.0,Lunch
+Baked sweet potato,1.0,medium (5"" long),0.0,0.57,0.0,0.0,101.46,Lunch
+Baked sweet potato,1.0,large,0.0,0.9,0.0,0.0,160.2,Lunch
+Baked sweet potato,1.0,small,0.0,0.3,0.0,0.0,53.4,Lunch
+Candied sweet potato,0.5,cup,0.0,0.4998,0.0,0.0,146.02,Lunch
+Mashed sweet potato,0.5,cup,0.0,0.50018,0.0,0.0,107.445,Lunch
+Raw tomatoes,1.0,medium whole (2-3/5"" across),0.0,0.68388,0.0,0.0,22.14,Lunch
+Raw tomatoes,0.5,cup, chopped or sliced,0.0,0.5004,0.0,0.0,16.2,Lunch
+Raw tomatoes,1.0,large whole (3"" across),0.0,1.01192,0.0,0.0,32.76,Lunch
+Raw tomatoes,1.0,small whole (2-2/5"" across),0.0,0.50596,0.0,0.0,16.38,Lunch
+Raw tomatoes,1.0,cherry tomato,0.0,0.09452,0.0,0.0,3.06,Lunch
+Raw tomatoes,1.0,medium slice (1/4"" thick),0.0,0.1112,0.0,0.0,3.6,Lunch
+Barbeque sauce,1.0,packet,0.02604,0.00186,0.0,0.0,6.975,BreakFast
+Steak sauce (A-1),1.0,Tablespoon,0.0,0.04864,0.00688,0.0,9.76,Lunch
+Steak sauce (A-1),0.25,cup,0.0,0.19,0.02688,0.0,38.125,Lunch
+Cocktail sauce,4.0,Tablespoons,0.0,0.25,0.02594,0.0,54.6,Lunch
+Tomato cucumber salad, with oil & vinegar,0.5,cup,0.0,0.5,0.0,0.0,92.22,Lunch
+Cream of tomato soup,1.0,cup,0.38688,0.93248,0.0,0.0,146.32,Lunch
+Tomato soup (made with water),1.0,cup,0.38552,0.92964,0.0,0.0,85.4,Lunch
+Raw bean sprouts,0.5,cup,0.0,0.50024,0.0,0.0,15.6,Lunch
+Nectarine (raw),1.0,nectarine,0.0,0.0,0.9996,0.0,59.84,Dinner
+Nectarine (raw),0.5,cup, sliced,0.0,0.0,0.50715,0.0,30.36,Dinner
+Nectarine (raw),1.0,slice,0.0,0.0,0.08306,0.0,4.972,Dinner
+Papaya (raw),0.5,medium,0.0,0.0,1.00016,0.0,59.28,Dinner
+Papaya (raw),0.5,cup, cubes,0.0,0.0,0.4606,0.0,27.3,Dinner
+Papaya (raw),0.5,small,0.0,0.0,0.50008,0.0,29.64,Dinner
+Peach (raw),1.0,medium (4 per lb),0.0,0.0,0.62426,0.0,38.22,Dinner
+Peach (raw),0.5,cup, diced,0.0,0.0,0.5,0.0,36.075,Dinner
+Peach (raw),1.0,large (2-1/2 per lb),0.0,0.0,1.00009,0.0,61.23,Dinner
+Peach (raw),1.0,small (5 per lb),0.0,0.0,0.50323,0.0,30.81,Dinner
+Peach (raw),1.0,slice,0.0,0.0,0.05096,0.0,3.12,Dinner
+Peach (canned in light syrup),1.0,half with liquid,0.0,0.0,0.39004,0.0,52.92,Dinner
+Peach (canned in light syrup),0.5,cup,0.0,0.0,0.49949,0.0,67.77,Dinner
+Peach (canned in light syrup),1.0,snack size (4 oz),0.0,0.0,0.44974,0.0,61.02,Dinner
+Pear (raw),1.0,medium (2-1/2 per lb),0.0,0.0,1.00596,0.0,96.28,Dinner
+Pear (raw),0.5,cup, sliced or cubed,0.0,0.0,0.49995,0.0,47.85,Dinner
+Pear (raw),1.0,large (2 per lb),0.0,0.0,1.26654,0.0,121.22,Dinner
+Pear (raw),1.0,small (3 per lb),0.0,0.0,0.84234,0.0,80.62,Dinner
+Pear (raw),1.0,slice,0.0,0.0,0.08484,0.0,8.12,Dinner
+Pear (canned in light syrup),1.0,half with liquid,0.0,0.0,0.30552,0.0,43.32,Dinner
+Pear (canned in light syrup),0.5,cup,0.0,0.0,0.50049,0.0,70.965,Dinner
+Pear (canned in light syrup),1.0,snack size (4 oz),0.0,0.0,0.45426,0.0,64.41,Dinner
+Persimmons (raw),1.0,persimmon,0.0,0.0,0.9996,0.0,117.6,Dinner
+Pineapple (raw),0.5,cup, diced,0.0,0.0,0.49988,0.0,37.2,Dinner
+Pineapple (raw),1.0,slice,0.0,0.0,0.5418,0.0,40.32,Dinner
+Pineapple (canned in light syrup),0.5,cup, chunks or crushed,0.0,0.0,0.50022,0.0,65.52,Dinner
+Pineapple (canned in light syrup),1.0,slice or ring,0.0,0.0,0.19056,0.0,24.96,Dinner
+Plum (raw),1.0,plum,0.0,0.0,0.39996,0.0,30.36,Dinner
+Pomegranate (raw),0.5,pomegranate,0.0,0.0,0.49973,0.0,52.36,Dinner
+Watermelon (raw),0.5,cup, diced,0.0,0.0,0.50008,0.0,22.8,Dinner
+Watermelon (raw),1.0,small wedge,0.0,0.0,0.46718,0.0,21.3,Dinner
+Watermelon (raw),1.0,medium wedge,0.0,0.0,1.88188,0.0,85.8,Dinner
+Watermelon (raw),1.0,large wedge,0.0,0.0,3.76376,0.0,171.6,Dinner
+Blueberries (raw),0.5,cup,0.0,0.0,0.50025,0.0,41.325,Dinner
+Cranberry sauce,0.25,cup,0.0,0.0,0.25,0.0,104.5675,Dinner
+Cranberry sauce,1.0,slice sauce,0.0,0.0,0.34314,0.0,86.07,Dinner
+Raspberries (raw),0.5,cup,0.0,0.0,0.5,0.0,31.98,Dinner
+Strawberries (raw),0.5,cup, whole,0.0,0.0,0.5,0.0,23.04,Dinner
+Strawberries (raw),0.5,cup, pureed,0.0,0.0,0.5,0.0,37.12,Dinner
+Strawberries (raw),0.5,cup, sliced,0.0,0.0,0.49966,0.0,26.56,Dinner
+Strawberries (raw),1.0,large,0.0,0.0,0.10836,0.0,5.76,Dinner
+Strawberries (raw),1.0,medium,0.0,0.0,0.07224,0.0,3.84,Dinner
+Strawberries (raw),1.0,small,0.0,0.0,0.04214,0.0,2.24,Dinner
+Strawberries (cooked or canned in syrup),0.5,cup,0.0,0.0,0.50038,0.0,116.84,Dinner
+Ambrosia,0.5,cup,0.0,0.0,0.50759,0.3,50.0,Dinner
+Fruit salad (no dressing),0.5,cup,0.0,0.0,0.49963,0.0,48.125,Dinner
+Fruit cocktail (canned in heavy syrup),1.0,snack size package (4 oz),0.0,0.0,0.45539,0.0,82.49,Dinner
+Fruit cocktail (canned in heavy syrup),0.5,cup,0.0,0.0,0.49972,0.0,90.52,Dinner
+Fruit cocktail (canned in light syrup),1.0,snack size package (4 oz),0.0,0.0,0.46669,0.0,64.41,Dinner
+Fruit cocktail (canned in light syrup),0.5,cup,0.0,0.0,0.49973,0.0,68.97,Dinner
+Waldorf salad (apple salad in dressing),0.5,cup,0.0,0.08152,0.42333,0.36031,121.245,Dinner
+Guacamole,0.25,cup,0.0,0.00291,0.25,0.0,91.4525,Dinner
+Fruit soup,1.0,cup,0.34848,0.0,0.52514,0.0,176.66,Dinner
+Frozen fruit juice bar,1.0,bar,0.0,0.0,0.5587,0.0,60.68,Dinner
+Low-calorie frozen fruit juice bar,1.0,bar,0.0081,0.0,0.17334,0.0,23.76,Dinner
+Sorbet (made with fruit),0.5,cup,0.0,0.0,0.5,0.0,82.0,Dinner
+100% Fruit juice blend (Juicy Juice),1.0,cup,0.0,0.0,1.0025,0.0,132.5,Dinner
+100% Fruit juice blend (Juicy Juice),1.0,drink box (8 fl oz),0.0,0.0,1.05864,0.0,139.92,Dinner
+100% Fruit juice blend (Juicy Juice),1.0,small box (4 fl oz),0.0,0.0,0.52932,0.0,69.96,Dinner
+Apple cider,1.0,cup,0.0,0.0,0.99944,0.0,116.56,Dinner
+Apple juice (100% juice),1.0,cup,0.0,0.0,0.99944,0.0,116.56,Dinner
+Apple juice (100% juice),1.0,bottle (10 fl oz),0.0,0.0,1.2493,0.0,145.7,Dinner
+Apple juice (100% juice),1.0,drink box (8 fl oz),0.0,0.0,1.05586,0.0,123.14,Dinner
+Cranberry juice (100% juice),1.0,cup,0.0,0.0,1.00188,0.0,116.38,Dinner
+Grape juice (100% juice),1.0,cup,0.0,0.0,1.00188,0.0,154.33,Dinner
+Pineapple juice (100% juice),1.0,cup,0.0,0.0,1.0025,0.0,140.0,Dinner
+Prune juice (100% juice),1.0,cup,0.0,0.0,1.00096,0.0,181.76,Dinner
+fruit smoothie (no milk),1.0,cup,0.0,0.0,0.9156,0.0,130.2,Dinner
+Peach nectar,1.0,cup,0.0,0.0,0.6723,0.0,134.46,Dinner
+Vinegar,1.0,Tablespoon,0.0,0.0,0.0,0.0,2.016,Lunch
+Baked potato, plain (don't eat peel),1.0,medium (2 per pound, raw),0.0,1.03097,0.0,0.0,120.52,Lunch
+Baked potato, plain (don't eat peel),1.0,large (13 ounces, raw),0.0,1.78649,0.0,0.0,208.84,Lunch
+Baked potato, plain (don't eat peel),1.0,small (6 ounces, raw),0.0,0.82635,0.0,0.0,96.6,Lunch
+Baked potato, plain (don't eat peel),8.0,ounces raw,0.0,1.13328,0.0,0.0,132.48,Lunch
+Baked potato, plain (eat peel),1.0,medium (2 per pound, raw),0.0,1.4186,0.0,0.0,159.16,Lunch
+Baked potato, plain (eat peel),1.0,large (13 ounces, raw),0.0,1.5088,0.0,0.0,169.28,Lunch
+Baked potato, plain (eat peel),1.0,small (6 ounces, raw),0.0,1.1316,0.0,0.0,126.96,Lunch
+Baked potato, plain (eat peel),8.0,ounces raw,0.0,1.5088,0.0,0.0,169.28,Lunch
+Boiled potatoes,1.0,medium (2 per pound, raw),0.0,1.07047,0.0,0.0,141.95,Lunch
+Boiled potatoes,1.0,large (13 ounces, raw),0.0,1.17944,0.0,0.0,156.4,Lunch
+Boiled potatoes,1.0,small (6 ounces, raw),0.0,0.80125,0.0,0.0,106.25,Lunch
+Potato chips, regular (all flavors),10.0,chips,0.0,0.31752,0.0,0.0,96.48,Lunch
+Reduced fat potato chips (all flavors),1.0,cup,0.0,0.3528,0.0,0.0,94.2,Lunch
+Reduced fat potato chips (all flavors),10.0,chips,0.0,0.29988,0.0,0.0,80.07,Lunch
+Pringles potato chips,1.0,one-inch stack (14 chips),0.0,0.49392,0.0,0.0,156.24,Lunch
+Pringles potato chips,10.0,chips,0.0,0.3528,0.0,0.0,111.6,Lunch
+Baked Pringles potato chips,1.0,cup, loose,0.0,0.49392,0.0,0.0,131.32,Lunch
+Baked Pringles potato chips,1.0,single serving bag (1.1 oz),0.0,0.56448,0.0,0.0,150.08,Lunch
+Baked Pringles potato chips,10.0,chips,0.0,0.40572,0.0,0.0,107.87,Lunch
+Potato sticks,0.5,cup,0.0,0.33516,0.0,0.0,99.18,Lunch
+Potato sticks,1.0,single serving bag (1 oz),0.0,0.49392,0.0,0.0,146.16,Lunch
+Potato sticks,10.0,sticks,0.0,0.05292,0.0,0.0,15.66,Lunch
+Au gratin potatoes,0.5,cup,0.12322,0.5,0.0,0.0,153.72,Lunch
+Scalloped potatoes,0.5,cup,0.1243,0.5,0.0,0.0,108.48,Lunch
+French fries, oven-baked,1.0,cup,0.0,0.36537,0.0,0.0,113.43,Lunch
+French fries, oven-baked,1.0,cup curly fries,0.0,0.51921,0.0,0.0,161.19,Lunch
+French fries, oven-baked,10.0,steak cut/dinner fries,0.0,0.56408,0.0,0.0,175.12,Lunch
+French fries, oven-baked,10.0,strips (2"" to 3-1/2""),0.0,0.3205,0.0,0.0,99.5,Lunch
+Cheese tortellini, no sauce,10.0,tortellini,1.3056,0.0,0.0,0.05424,113.28,BreakFast
+Macaroni and cheese (from dry mix),0.5,cup,1.00084,0.0,0.0,0.0,197.685,BreakFast
+Macaroni and cheese with beef,0.5,cup,0.72414,0.00122,0.0,1.0121,167.67,BreakFast
+Macaroni salad,0.5,cup,0.75491,0.15399,0.0,0.01947,169.92,Lunch
+Macaroni salad with egg,0.5,cup,0.59207,0.12125,0.0,0.34338,178.77,Lunch
+Pasta salad with vegetables,0.5,cup,0.64694,0.21417,0.0,0.0,116.82,Lunch
+Pasta salad with meat and vegetables,0.5,cup,0.61508,0.15488,0.0,0.4071,147.795,Lunch
+Noodle pudding,0.5,cup,0.64584,0.0,0.13752,0.25848,148.32,Dinner
+Chicken noodle soup,1.0,cup,0.4338,0.00241,0.0,0.21208,74.71,Lunch
+Chicken rice soup,1.0,cup,0.29402,0.01687,0.0,0.11568,60.25,Lunch
+Matzo ball soup,1.0,cup,0.72059,0.0,0.0,0.29402,118.09,Lunch
+Ramen noodle soup,0.5,package, prepared,1.8278,0.01729,0.0,0.0,170.43,BreakFast
+Ramen noodle soup,1.0,cup,1.7242,0.01631,0.0,0.0,160.77,BreakFast
+Won ton soup,1.0,cup,1.0604,0.10845,0.0,1.02425,183.16,Lunch
+Grapefruit (raw),0.5,medium (4"" across),0.0,0.0,0.5568,0.0,40.96,Dinner
+Grapefruit (raw),0.5,cup,0.0,0.0,0.50025,0.0,36.8,Dinner
+Grapefruit (raw),0.5,large (4-1/2"" across),0.0,0.0,0.7221,0.0,53.12,Dinner
+Grapefruit (raw),0.5,small (3-1/2"" across),0.0,0.0,0.435,0.0,32.0,Dinner
+Grapefruit (canned, light syrup),0.5,cup,0.0,0.0,0.50038,0.0,76.2,Dinner
+Orange (raw),1.0,medium (2-5/8"" across),0.0,0.0,0.71264,0.0,61.57,Dinner
+Orange (raw),0.5,cup, sections,0.0,0.0,0.4896,0.0,42.3,Dinner
+Orange (raw),1.0,large (3"" across),0.0,0.0,1.00096,0.0,86.48,Dinner
+Orange (raw),1.0,small (2-3/8"" across),0.0,0.0,0.52224,0.0,45.12,Dinner
+Orange (raw),1.0,section or slice,0.0,0.0,0.09248,0.0,7.99,Dinner
+Mandarin oranges (light syrup),0.5,cup,0.0,0.0,0.50022,0.0,76.86,Dinner
+Tangerine (raw),1.0,medium (2-3/8"" across),0.0,0.0,0.43092,0.0,36.96,Dinner
+Tangerine (raw),0.5,cup, sections,0.0,0.0,0.50018,0.0,42.9,Dinner
+Tangerine (raw),1.0,clementine,0.0,0.0,0.38475,0.0,33.0,Dinner
+Grapefruit juice (unsweetened),1.0,cup,0.0,0.0,1.00035,0.0,93.86,Dinner
+Lemon juice,1.0,Tablespoon,0.0,0.0,0.06253,0.0,3.8125,Dinner
+Lemon juice,1.0,lemon, juiced,0.0,0.0,0.1927,0.0,11.75,Dinner
+Orange juice (100% juice),1.0,cup,0.0,0.0,1.00098,0.0,104.58,Dinner
+Orange juice (100% juice),1.0,drink box (8 fl oz),0.0,0.0,1.05726,0.0,110.46,Dinner
+Orange juice (100% juice),1.0,small box (4 oz),0.0,0.0,0.49848,0.0,52.08,Dinner
+Orange juice (100% juice),1.0,McDonald's carton,0.0,0.0,0.7236,0.0,75.6,Dinner
+Orange juice (100% juice),1.0,bottle (16 fl oz),0.0,0.0,2.00196,0.0,209.16,Dinner
+Orange juice (sweetened),1.0,cup,0.0,0.0,1.0025,0.0,130.0,Dinner
+Dried fruit (apricot, apple, etc.),0.25,cup,0.0,0.0,0.50014,0.0,85.68,Dinner
+Apple chips,10.0,chips,0.0,0.0,0.38808,0.0,101.2,Dinner
+Banana chips,0.25,cup,0.0,0.0,0.50004,0.0,66.06,Dinner
+Fig (dried),1.0,fig,0.0,0.0,0.19095,0.0,47.31,Dinner
+Fig (dried),0.25,cup,0.0,0.0,0.49999,0.0,123.8775,Dinner
+Prunes,0.5,cup pitted,0.0,0.0,1.00045,0.0,204.0,Dinner
+Prunes,1.0,prune,0.0,0.0,0.09887,0.0,20.16,Dinner
+Raisins,1.0,miniature box (1/2 oz),0.0,0.0,0.19306,0.0,41.86,Dinner
+Raisins,0.25,cup,0.0,0.0,0.49989,0.0,108.3875,Dinner
+Raisins,1.0,small box (1 1/2 oz),0.0,0.0,0.59297,0.0,128.57,Dinner
+Apple (raw),1.0,medium  (about 3 per lb),0.0,0.0,1.30134,0.0,71.76,Dinner
+Apple (raw),1.0,cup, quartered or chopped,0.0,0.0,1.0,0.0,65.0,Dinner
+Apple (raw),1.0,large (about 2 per lb),0.0,0.0,1.99916,0.0,110.24,Dinner
+Apple (raw),1.0,small  (about 4 per lb),0.0,0.0,0.99958,0.0,55.12,Dinner
+Apple (raw),1.0,slice,0.0,0.0,0.16031,0.0,8.84,Dinner
+Applesauce (unsweetened),0.5,cup,0.0,0.0,0.5002,0.0,52.46,Dinner
+Applesauce (unsweetened),1.0,snack size package (4 oz),0.0,0.0,0.4633,0.0,48.59,Dinner
+Applesauce (sweetened),0.5,cup,0.0,0.0,0.4998,0.0,96.9,Dinner
+Applesauce (sweetened),1.0,snack size package (4 oz),0.0,0.0,0.44296,0.0,85.88,Dinner
+Baked apple (sweetened),1.0,apple,0.0,0.0,0.89946,0.0,162.45,Dinner
+Apricot (raw),1.0,apricot,0.0,0.0,0.2121,0.0,16.8,Dinner
+Apricot (raw),0.5,cup, halves,0.0,0.0,0.46965,0.0,37.2,Dinner
+Apricot (canned, light syrup),1.0,apricot half,0.0,0.0,0.08226,0.0,14.94,Dinner
+Apricot (canned, light syrup),0.5,cup, halves,0.0,0.0,0.50041,0.0,90.885,Dinner
+Avocado,0.25,cup, cubes,0.0,0.0,0.25013,0.0,60.0,Dinner
+Avocado,0.25,cup, mashed,0.0,0.0,0.25,0.0,92.0,Dinner
+Avocado,0.5,California avocado (black),0.0,0.0,0.57696,0.0,138.4,Dinner
+Banana,1.0,medium (7 - 8"" long),0.0,0.0,0.8673,0.0,105.02,Dinner
+Banana,0.5,cup, sliced,0.0,0.0,0.5,0.0,66.75,Dinner
+Banana,1.0,small (6 - 7"" long),0.0,0.0,0.74235,0.0,89.89,Dinner
+Banana,1.0,large (8 - 9"" long),0.0,0.0,0.9996,0.0,121.04,Dinner
+Cantaloupe,0.5,cup, balls,0.0,0.0,0.5,0.0,30.09,Dinner
+Cantaloupe,1.0,large wedge,0.0,0.0,0.65382,0.0,34.68,Dinner
+Cantaloupe,1.0,medium wedge,0.0,0.0,0.44229,0.0,23.46,Dinner
+Cantaloupe,1.0,small wedge,0.0,0.0,0.35255,0.0,18.7,Dinner
+Maraschino cherries,1.0,cherry,0.0,0.0,0.0267,0.0,7.095,Dinner
+Maraschino cherries,0.25,cup,0.0,0.0,0.24995,0.0,66.4125,Dinner
+Sweet cherries (raw),0.5,cup cherries with pits,0.0,0.0,0.40365,0.0,36.855,Dinner
+Sweet cherries (raw),0.5,cup pitted cherries,0.0,0.0,0.50025,0.0,45.675,Dinner
+Sweet cherries (raw),10.0,cherries,0.0,0.0,0.4692,0.0,42.84,Dinner
+Grapes (raw),0.5,cup,0.0,0.0,0.5,0.0,55.2,Dinner
+Grapes (raw),10.0,grapes,0.0,0.0,0.3125,0.0,34.5,Dinner
+Guava (raw),1.0,guava,0.0,0.0,0.5454,0.0,45.9,Dinner
+Guava (raw),0.5,cup,0.0,0.0,0.49995,0.0,42.075,Dinner
+Kiwifruit (raw),1.0,fruit,0.0,0.0,0.4294,0.0,46.36,Dinner
+Kiwifruit (raw),0.5,cup,0.0,0.0,0.50003,0.0,53.985,Dinner
+Kiwifruit (raw),1.0,slice,0.0,0.0,0.03955,0.0,4.27,Dinner
+Honeydew melon (raw),1.0,medium wedge,0.0,0.0,0.735,0.0,45.0,Dinner
+Honeydew melon (raw),0.5,cup balls,0.0,0.0,0.52038,0.0,31.86,Dinner
+Honeydew melon (raw),1.0,small wedge,0.0,0.0,0.36456,0.0,22.32,Dinner
+Honeydew melon (raw),1.0,large wedge,0.0,0.0,1.47,0.0,90.0,Dinner
+Mango (raw),0.5,cup, sliced,0.0,0.0,0.49995,0.0,53.625,Dinner
+Mango (raw),0.5,mango,0.0,0.0,0.62721,0.0,67.275,Dinner
+Beef and cheese enchilada,1.0,enchilada,1.18545,0.2394,0.0,0.4704,213.15,BreakFast
+Chicken enchilada,1.0,enchilada,1.64682,0.252,0.0,1.33434,202.86,Lunch
+Bean enchilada,1.0,enchilada,1.24136,0.2242,0.0,0.0,179.36,Lunch
+Beef taco (cheese, lettuce, tomato, salsa),1.0,taco or tostada,1.19028,0.24983,0.0,0.75696,172.64,Lunch
+Taquitoes,1.0,taquito,1.17504,0.04104,0.0,1.01808,190.8,Lunch
+Chicken fajitas with veggies & guacamole,1.0,McDonald's fajita,0.77408,0.24928,0.0656,0.55432,132.84,Lunch
+Cheese pizza, thin crust,1.0,slice (1/8 med pizza),1.31166,0.1827,0.0,0.0,163.8,BreakFast
+Cheese pizza, thick crust,1.0,slice (1/8 med pizza),2.04622,0.14271,0.0,0.0,203.06,BreakFast
+Cheese pizza, thick crust,0.5,French bread pizza,2.11827,0.14774,0.0,0.0,210.21,BreakFast
+Cheese pizza, thick crust,1.0,Bagel Bite,0.63404,0.04422,0.0,0.0,62.92,BreakFast
+Vegetable pizza, thin crust,1.0,slice (1/8 med pizza),1.1235,0.3241,0.0,0.0,149.1,BreakFast
+Vegetable pizza, thick crust,1.0,slice (1/8 med pizza),1.8642,0.2691,0.0,0.0,192.66,BreakFast
+Meat pizza, thin crust,1.0,slice (1/8 med pizza),1.30569,0.18176,0.0,0.20235,208.03,BreakFast
+Meat & veggie pizza, thin crust,1.0,slice (1/8 med pizza),1.15024,0.3318,0.0,0.18486,192.76,BreakFast
+Pizza rolls or bites,1.0,miniature roll,0.30296,0.03164,0.0,0.03472,42.0,BreakFast
+Egg roll with vegetables,1.0,egg roll,0.5888,0.22656,0.0,0.14208,100.48,Lunch
+Egg roll with vegetables,1.0,miniature egg roll,0.1196,0.04602,0.0,0.02886,20.41,Lunch
+Egg roll with meat,1.0,egg roll,0.57664,0.1536,0.0,0.39104,112.64,Lunch
+Egg roll with meat,1.0,miniature egg roll,0.11713,0.0312,0.0,0.07943,22.88,Lunch
+Fried wonton,1.0,wonton,0.33744,0.02071,0.0,0.22211,53.96,Lunch
+Fried wonton,1.0,pot sticker,0.5328,0.0327,0.0,0.3507,85.2,Lunch
+Steamed dumpling, meat filled,1.0,dumpling,0.25493,0.03182,0.0,0.60199,41.44,Lunch
+Meat ravioli with tomato sauce,0.5,cup,0.91239,0.19704,0.0,0.23218,104.165,Lunch
+Meat ravioli with tomato sauce,0.5,can (15 oz),1.54487,0.33362,0.0,0.39313,176.375,Lunch
+Meat ravioli with tomato sauce,1.0,piece,0.23991,0.05181,0.0,0.06105,27.39,Lunch
+Cheese ravioli (no sauce),0.5,cup,1.2392,0.0032,0.0,0.2128,185.2,BreakFast
+Cheese ravioli (no sauce),1.0,piece,0.23235,6.0E-4,0.0,0.0399,34.725,BreakFast
+Fried rice (plain),0.5,cup,0.68309,0.16517,0.0,0.17098,125.33,Lunch
+Shrimp fried rice,0.5,cup,0.86427,0.11385,0.0,0.43362,161.37,Lunch
+Nigiri sushi (with fish and veggies),1.0,piece,0.23608,0.04394,0.0,0.11388,36.4,Lunch
+Nigiri sushi (with fish and veggies),0.25,cup,0.37682,0.07014,0.0,0.18177,58.1,Lunch
+Maki sushi (rolled sushi with veggies),1.0,piece,0.2418,0.03094,0.0,0.0,30.42,Lunch
+Maki sushi (rolled sushi with veggies),0.25,cup,0.38595,0.04938,0.0,0.0,48.555,Lunch
+Rice and beans,0.5,cup,0.66681,0.0,0.0,0.0,195.98,BreakFast
+Rice with tomato sauce,0.5,cup,0.99265,0.16524,0.0,0.0,126.36,Lunch
+Stuffed pepper (with rice and meat),0.5,pepper with filling,0.35164,0.45147,0.0,1.64943,208.6,Lunch
+Spanish rice,0.5,cup,0.66947,0.25,0.0,0.0,105.705,Lunch
+Rice with vegetables,0.5,cup,0.8343,0.17819,0.0,0.01133,139.05,Lunch
+Lucky Charms cereal,1.0,single serving box,0.56347,0.0,0.0,0.0,110.2,BreakFast
+Raisin bran cereal,1.0,cup,1.17303,0.0,0.17873,0.0,194.59,Dinner
+Raisin bran cereal,1.0,single serving box,0.74997,0.0,0.11427,0.0,124.41,Dinner
+Rice Chex cereal,1.0,cup,1.07547,0.0,0.0,0.0,124.41,BreakFast
+Rice Krispies cereal,1.0,cup,0.86242,0.0,0.0,0.0,93.6,BreakFast
+Rice Krispies cereal,1.0,single serving box,0.82925,0.0,0.0,0.0,90.0,BreakFast
+Special K cereal,1.0,cup,0.92628,0.0,0.0,0.0,117.49,BreakFast
+Special K cereal,1.0,single serving box,0.62748,0.0,0.0,0.0,79.59,BreakFast
+Corn Pops cereal,1.0,cup,0.49414,0.0,0.0,0.0,117.8,BreakFast
+Corn Pops cereal,1.0,single serving box,0.44632,0.0,0.0,0.0,106.4,BreakFast
+Frosted Flakes cereal,1.0,cup,0.87904,0.0,0.0,0.0,150.47,BreakFast
+Frosted Flakes cereal,1.0,single serving box,0.68608,0.0,0.0,0.0,117.44,BreakFast
+Total cereal,1.0,cup,0.96459,0.0,0.0,0.0,106.92,BreakFast
+Total cereal,1.0,single serving box,0.82867,0.0,0.0,0.0,91.854,BreakFast
+Trix cereal,1.0,cup,0.6042,0.0,0.0,0.0,117.3,BreakFast
+Trix cereal,1.0,single serving box,0.54378,0.0,0.0,0.0,105.57,BreakFast
+Shredded wheat cereal,1.0,cup spoon size biscuits,1.7635,0.0,0.0,0.0,170.0,BreakFast
+Shredded wheat cereal,1.0,rectangular biscuit,0.84648,0.0,0.0,0.0,81.6,BreakFast
+Wheaties cereal,1.0,cup,0.8562,0.0,0.0,0.0,106.5,BreakFast
+Wheat bran, unprocessed,0.25,cup,0.51141,0.0,0.0,0.0,31.32,BreakFast
+Bean taco (cheese, lettuce, tomato, salsa),1.0,taco or tostada,1.19028,0.22176,0.0,0.0,143.44,BreakFast
+Taco salad with beef, cheese, corn chips,1.0,cup,0.57706,0.42456,0.0,0.87596,192.76,Lunch
+Tamale (with meat or chicken),1.0,tamale,0.8232,0.0749,0.0,0.5684,133.0,Lunch
+Smoked ham (lean),1.0,medium slice,0.0,0.0,0.0,1.48134,65.94,Lunch
+Smoked ham (lean),1.0,thick slice,0.0,0.0,0.0,2.22201,98.91,Lunch
+Smoked ham (lean),1.0,thin slice,0.0,0.0,0.0,0.74067,32.97,Lunch
+Smoked ham (lean),4.0,ounces, boneless,0.0,0.0,0.0,4.0,178.038,Lunch
+Canadian bacon,1.0,slice,0.0,0.0,0.0,0.81121,42.55,Lunch
+Canadian bacon,1.0,ounce,0.0,0.0,0.0,4.0,51.8,Lunch
+Bacon,1.0,medium slice, cooked,0.0,0.0,0.0,0.18112,43.28,Lunch
+Bacon,1.0,thick slice, cooked,0.0,0.0,0.0,0.27168,64.92,Lunch
+Bacon,1.0,thin slice, cooked,0.0,0.0,0.0,0.1132,27.05,Lunch
+Pork spareribs (eat lean & fat),1.0,large rib,0.0,0.0,0.0,1.22175,177.75,Lunch
+Pork spareribs (eat lean & fat),1.0,medium rib,0.0,0.0,0.0,0.95025,138.25,Lunch
+Pork spareribs (eat lean & fat),1.0,small rib,0.0,0.0,0.0,0.67875,98.75,Lunch
+Pork spareribs (eat lean only),1.0,large cut (3 ribs),0.0,0.0,0.0,3.524,205.0,Lunch
+Pork spareribs (eat lean only),1.0,large rib,0.0,0.0,0.0,1.16292,67.65,Lunch
+Pork spareribs (eat lean only),1.0,medium rib,0.0,0.0,0.0,0.91624,53.3,Lunch
+Pork spareribs (eat lean only),1.0,small rib,0.0,0.0,0.0,0.63432,36.9,Lunch
+BBQ spareribs & sauce (eat lean & fat),1.0,medium rib,0.0368,0.0024,0.0,0.7404,124.0,Lunch
+BBQ spareribs & sauce (eat lean & fat),1.0,large rib,0.04784,0.00312,0.0,0.96252,161.2,Lunch
+BBQ spareribs & sauce (eat lean & fat),1.0,small rib,0.02668,0.00174,0.0,0.53679,89.9,Lunch
+BBQ spareribs & sauce (eat lean only),1.0,medium rib,0.0276,0.0018,0.0,0.6756,66.3,Lunch
+BBQ spareribs & sauce (eat lean only),1.0,large rib,0.03496,0.00228,0.0,0.85576,83.98,Lunch
+BBQ spareribs & sauce (eat lean only),1.0,small rib,0.01932,0.00126,0.0,0.47292,46.41,Lunch
+Lamb chop,1.0,medium chop,0.0,0.0,0.0,2.71518,167.7,Lunch
+Lamb chop,1.0,small chop,0.0,0.0,0.0,1.81012,111.8,Lunch
+Broiled veal chop,4.0,ounces after cooking,0.0,0.0,0.0,3.13996,197.8,Lunch
+Veal cutlet or steak, fried,1.0,cutlet,0.0,0.0,0.0,2.68191,139.37,Lunch
+Veal cutlet or steak, fried,4.0,ounces after cooking,0.0,0.0,0.0,3.94972,205.254,Lunch
+Roasted veal,1.0,medium slice ,0.0,0.0,0.0,1.44774,96.6,Lunch
+Roasted veal,1.0,thick slice ,0.0,0.0,0.0,2.17161,144.9,Lunch
+Roasted veal,1.0,thin slice ,0.0,0.0,0.0,0.72387,48.3,Lunch
+Roasted venison,4.0,ounces after cooking,0.0,0.0,0.0,4.0,215.46,Lunch
+Battered fried chicken (eat skin),1.0,small piece,0.39298,0.0,0.0,1.14366,142.1,Lunch
+Baked chicken breast (eat skin),1.0,medium breast,0.0,0.0,0.0,3.45646,191.1,Lunch
+Baked chicken breast (eat skin),1.0,small breast,0.0,0.0,0.0,2.96268,163.8,Lunch
+Baked chicken breast (no skin),1.0,medium breast,0.0,0.0,0.0,3.03322,141.04,Lunch
+Baked chicken breast (no skin),1.0,white meat quarter,0.0,0.0,0.0,4.44402,206.64,Lunch
+Baked chicken breast (no skin),1.0,large breast,0.0,0.0,0.0,3.45646,160.72,Lunch
+Baked chicken breast (no skin),1.0,small breast,0.0,0.0,0.0,2.64525,123.0,Lunch
+Baked chicken breast (no skin),4.0,ounces boneless, cooked,0.0,0.0,0.0,4.0,170.56,Lunch
+Fried chicken breast (no skin),1.0,medium breast,0.0,0.0,0.0,2.9197,158.24,Lunch
+Fried chicken breast (no skin),1.0,large breast,0.0,0.0,0.0,3.3271,180.32,Lunch
+Fried chicken breast (no skin),1.0,small breast,0.0,0.0,0.0,2.54625,138.0,Lunch
+Fried chicken breast (no skin),4.0,ounces, cooked, skinned,0.0,0.0,0.0,4.0,191.36,Lunch
+Battered fried chicken breast, no skin,1.0,small breast,0.71852,0.0,0.0,2.22916,215.28,Lunch
+Baked chicken dark meat (no skin),1.0,medium dark meat quarter,0.0,0.0,0.0,3.35065,179.55,Lunch
+Baked chicken dark meat (no skin),1.0,small dark meat quarter,0.0,0.0,0.0,2.85687,153.09,Lunch
+Baked chicken drumstick (no skin),1.0,medium drumstick,0.0,0.0,0.0,1.55188,75.24,Lunch
+Baked chicken drumstick (no skin),1.0,large drumstick,0.0,0.0,0.0,2.04566,99.18,Lunch
+Baked chicken drumstick (no skin),1.0,small drumstick,0.0,0.0,0.0,1.19918,58.14,Lunch
+Fried chicken drumstick (battered),1.0,medium drumstick,0.4752,0.0,0.0,1.82016,194.4,Lunch
+Fried chicken drumstick (battered),1.0,small drumstick,0.363,0.0,0.0,1.3904,148.5,Lunch
+Baked chicken thigh (no skin),1.0,medium thigh,0.0,0.0,0.0,1.80336,107.64,Lunch
+Baked chicken thigh (no skin),1.0,large thigh,0.0,0.0,0.0,2.4276,144.9,Lunch
+Baked chicken thigh (no skin),1.0,small thigh,0.0,0.0,0.0,1.59528,95.22,Lunch
+Fried chicken thigh (eat skin),1.0,medium thigh,0.0,0.0,0.0,2.015,158.1,Lunch
+Fried chicken thigh (eat skin),1.0,large thigh,0.0,0.0,0.0,2.73,214.2,Lunch
+Fried chicken thigh (eat skin),1.0,small thigh,0.0,0.0,0.0,1.7875,140.25,Lunch
+Fried chicken thigh (no skin),1.0,medium thigh,0.0,0.0,0.0,1.729,111.28,Lunch
+Fried chicken thigh (no skin),1.0,large thigh,0.0,0.0,0.0,2.3275,149.8,Lunch
+Fried chicken thigh (no skin),1.0,small thigh,0.0,0.0,0.0,1.5295,98.44,Lunch
+Fried chicken thigh (battered),1.0,small thigh,0.60192,0.0,0.0,1.79436,211.28,Lunch
+Fried chicken wing (no coating),1.0,medium wing,0.0,0.0,0.0,0.95168,101.76,Lunch
+Fried chicken wing (no coating),1.0,mini ""drumette"",0.0,0.0,0.0,0.4461,47.7,Lunch
+Fried chicken wing (no coating),1.0,large wing,0.0,0.0,0.0,1.27882,136.74,Lunch
+Fried chicken wing (no coating),1.0,small wing,0.0,0.0,0.0,0.83272,89.04,Lunch
+Fried chicken wing (battered),1.0,medium wing,0.43463,0.0,0.0,1.01087,159.74,Lunch
+Fried chicken wing (battered),1.0,mini ""drumette"",0.16853,0.0,0.0,0.39197,61.94,Lunch
+Fried chicken wing (battered),1.0,large wing,0.56768,0.0,0.0,1.32032,208.64,Lunch
+Fried chicken wing (battered),1.0,small wing,0.37254,0.0,0.0,0.86646,136.92,Lunch
+Chicken patty or fillet (breaded),1.0,medium tender,0.1768,0.0,0.0,0.3424,47.52,Lunch
+Chicken nuggets,1.0,nugget,0.1989,0.0,0.0,0.3852,54.18,Lunch
+Roasted turkey (white meat),1.0,medium slice,0.0,0.0,0.0,0.98756,43.68,Lunch
+Roasted turkey (white meat),1.0,thin slice,0.0,0.0,0.0,0.49378,21.84,Lunch
+Roasted turkey (white meat),4.0,ounces after cooking,0.0,0.0,0.0,4.0,174.72,Lunch
+Roasted turkey (white & dark meat),1.0,medium slice,0.0,0.0,0.0,0.98756,47.32,Lunch
+Roasted turkey (white & dark meat),1.0,thin slice,0.0,0.0,0.0,0.49378,23.66,Lunch
+Roasted turkey (white & dark meat),4.0,ounces after cooking,0.0,0.0,0.0,4.0,189.28,Lunch
+Ground turkey,1.0,medium patty (4 per pound),0.0,0.0,0.0,2.0286,139.8,Lunch
+Ground turkey,0.5,cup after cooking,0.0,0.0,0.0,2.14694,147.955,Lunch
+Ground turkey,1.0,large patty (3 per pound),0.0,0.0,0.0,2.7048,186.4,Lunch
+Ground turkey,1.0,small patty (5 per pound),0.0,0.0,0.0,1.62288,111.84,Lunch
+Turkey bacon,1.0,medium slice, cooked,0.0,0.0,0.0,0.30833,42.02,Lunch
+Roasted duck,1.0,drumstick and thigh,0.0,0.0,0.0,1.5345,184.8,Lunch
+Fried beef liver,1.0,slice,0.0,0.0,0.0,2.8883,147.9,Lunch
+Fried chicken liver,1.0,liver,0.14124,0.0,0.0,0.6578,58.52,Lunch
+Chicken liver pate,1.0,slice,0.13665,0.0,0.0,0.53667,56.9835,Lunch
+Low fat hot dog,1.0,hot dog,0.0,0.0,0.0,1.98303,92.34,Lunch
+Hot dog (frankfurter),1.0,hot dog,0.0,0.0,0.0,1.63704,174.99,Lunch
+Bologna,1.0,medium slice,0.0,0.0,0.0,0.78708,85.96,Lunch
+Low fat bologna,1.0,medium slice,0.0,0.0,0.0,0.87864,64.4,Lunch
+Pepperoni,1.0,slice,0.0,0.0,0.0,0.12771,25.63,Lunch
+Pepperoni,0.25,cup, sliced,0.0,0.0,0.0,0.59211,118.83,Lunch
+Breakfast sausage (brown & serve),1.0,patty,0.0,0.0,0.0,0.66933,106.92,Lunch
+Breakfast sausage (brown & serve),1.0,link,0.0,0.0,0.0,0.32227,51.48,Lunch
+Turkey sausage,1.0,medium slice (slice=1 oz),0.0,0.0,0.0,0.91392,58.52,Lunch
+Vienna sausage,1.0,sausage,0.0,0.0,0.0,0.46528,44.64,Lunch
+Deli ham (regular),1.0,slice,0.0,0.0,0.0,0.98756,45.36,Lunch
+Deli ham (regular),0.5,cup,0.0,0.0,0.0,2.59235,119.07,Lunch
+Deli ham (regular),1.0,shaved slice,0.0,0.0,0.0,0.59959,27.54,Lunch
+Deli ham (extra lean),1.0,slice,0.0,0.0,0.0,0.98756,36.68,Lunch
+Deli chicken or turkey loaf,1.0,slice,0.0,0.0,0.0,0.9999,42.525,Lunch
+Deli sliced turkey or chicken breast,1.0,slice,0.0,0.0,0.0,0.9999,29.484,Lunch
+Deli sliced turkey or chicken breast,0.5,cup, shaved slices,0.0,0.0,0.0,1.42844,42.12,Lunch
+Deli sliced roast beef,1.0,slice,0.0,0.0,0.0,0.9999,50.1795,Lunch
+Deli sliced roast beef,0.5,cup,0.0,0.0,0.0,2.4689,123.9,Lunch
+Chicken salad spread,0.5,cup,0.66976,0.0,0.0,1.6172,208.0,Lunch
+Baked fish,1.0,fillet,0.0,0.0,0.01469,3.71996,142.38,Lunch
+Baked fish,4.0,ounces after cooking,0.0,0.0,0.01474,4.0,142.884,Lunch
+Baked battered fish fillet,1.0,patty or fillet,0.97812,0.0,0.0,1.05279,155.04,Lunch
+Baked battered fish fillet,1.0,stick,0.29172,0.0,0.0,0.31399,46.24,Lunch
+Baked battered fish fillet,2.0,ounces after cooking,0.97297,0.0,0.0,1.04725,154.224,Lunch
+Fried breaded fish fillet,1.0,patty or fillet,0.3477,0.0,0.0,1.54698,125.97,Lunch
+Fried breaded fish fillet,1.0,stick,0.1037,0.0,0.0,0.46138,37.57,Lunch
+Fried breaded fish fillet,2.0,ounces after cooking,0.34587,0.0,0.0,1.53884,125.307,Lunch
+Anchovy,1.0,2-ounce can, drained,0.0,0.0,0.0,1.5795,94.5,Lunch
+Anchovy,2.0,ounces,0.0,0.0,0.0,1.99017,119.07,Lunch
+Baked or broiled catfish,1.0,fillet,0.0,0.0,0.01008,2.05632,115.92,Lunch
+Baked or broiled catfish,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,208.656,Lunch
+Fried catfish (breaded or battered),1.0,fillet,0.38475,0.0,0.0,1.83975,182.25,Lunch
+Baked or broiled cod,1.0,fillet,0.0,0.0,0.01488,3.04203,113.46,Lunch
+Baked or broiled cod,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,138.348,Lunch
+Fried cod (breaded or battered),1.0,fillet,0.5841,0.0,0.0,2.7918,190.3,Lunch
+Fried cod (breaded or battered),4.0,ounces after cooking,0.60215,0.0,0.0,2.87809,196.182,Lunch
+Baked or broiled flounder,1.0,fillet,0.0,0.0,0.0208,4.2536,172.9,Lunch
+Baked or broiled flounder,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,150.822,Lunch
+Baked or broiled perch,1.0,fillet,0.0,0.0,0.01536,3.14112,127.68,Lunch
+Baked or broiled perch,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,150.822,Lunch
+Baked or broiled salmon,4.0,ounces after cooking,0.0,0.0,0.02155,4.0,193.914,Lunch
+Smoked salmon (lox),1.0,slice or piece,0.0,0.0,0.0,0.7054,23.4,Lunch
+Smoked salmon (lox),1.0,ounce,0.0,0.0,0.0,0.9999,33.1695,Lunch
+Baked or broiled trout,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,213.192,Lunch
+Baked or broiled tuna,4.0,ounces after cooking,0.0,0.0,0.01814,4.0,173.502,Lunch
+Canned tuna (in oil),0.5,can, drained,0.0,0.0,0.0,2.8216,158.4,Lunch
+Canned tuna (in oil),2.0,ounces,0.0,0.0,0.0,1.99981,112.266,Lunch
+Canned tuna (in water),0.5,can, drained,0.0,0.0,0.0,2.94504,96.86,Lunch
+Canned tuna (in water),2.0,ounces,0.0,0.0,0.0,1.99981,65.772,Lunch
+Fried whiting (floured or breaded),1.0,fillet,0.5307,0.0,0.0,2.36031,190.53,Lunch
+Fried calamari (fried squid),0.25,cup,0.23663,0.0,0.0,1.05338,73.875,Lunch
+Fried clams (battered),0.5,cup (1 cup=8 medium clams),0.43758,0.0,0.0,1.31631,111.18,Lunch
+Steamed clams (oysters, mussels),0.5,cup (1 cup=12 medium clams),0.0,0.0,0.0,2.64525,69.0,Lunch
+Steamed clams (oysters, mussels),1.0,quart, in shell,0.0,0.0,0.0,6.59549,172.04,Lunch
+Steamed crab (hard shell),1.0,medium blue crab,0.0,0.0,0.0,1.69296,48.48,Lunch
+Steamed crab (hard shell),1.0,Pacific crab,0.0,0.0,0.0,3.98551,114.13,Lunch
+Steamed crab (hard shell),1.0,king crab leg,0.0,0.0,0.0,4.19713,120.19,Lunch
+Steamed crab (hard shell),1.0,snow crab,0.0,0.0,0.0,1.90458,54.54,Lunch
+Steamed or boiled crayfish,0.5,cup, cooked,0.0,0.0,0.0,2.4689,56.7,Lunch
+Steamed or boiled crayfish,2.0,ounces after cooking,0.0,0.0,0.0,2.0,45.36,Lunch
+Steamed or boiled lobster,1.0,medium lobster tail,0.0,0.0,0.0,5.18469,142.59,Lunch
+Steamed or boiled lobster,0.5,medium lobster,0.0,0.0,0.0,5.20233,143.075,Lunch
+Steamed or boiled lobster,4.0,ounces after cooking,0.0,0.0,0.0,3.99962,109.998,Lunch
+Fried oysters (breaded or battered),1.0,large oyster,0.22308,0.0,0.0,0.67002,55.38,Lunch
+Fried oysters (breaded or battered),1.0,small oyster,0.06864,0.0,0.0,0.20616,17.04,Lunch
+Baked or broiled scallops,0.5,cup, cooked,0.0,0.0,0.0,3.18749,124.74,Lunch
+Baked or broiled scallops,1.0,scallop,0.0,0.0,0.0,0.43849,17.16,Lunch
+Baked or broiled scallops,4.0,ounces after cooking,0.0,0.0,0.0,4.0,149.688,Lunch
+Fried scallops (floured or breaded),0.5,cup, cooked,0.4087,0.0,0.0,1.81838,145.39,Lunch
+Fried scallops (floured or breaded),1.0,scallop (0.6 oz),0.0976,0.0,0.0,0.43424,34.72,Lunch
+Baked, broiled, or sauteed shrimp,0.5,cup, cooked,0.0,0.0,0.0,2.44543,111.65,Lunch
+Baked, broiled, or sauteed shrimp,1.0,jumbo shrimp,0.0,0.0,0.0,0.3373,15.40003,Lunch
+Baked, broiled, or sauteed shrimp,4.0,ounces after cooking,0.0,0.0,0.0,4.0,172.48,Lunch
+Baked, broiled, or sauteed shrimp,10.0,medium shrimp,0.0,0.0,0.0,1.6865,77.0,Lunch
+Baked, broiled, or sauteed shrimp,10.0,small shrimp,0.0,0.0,0.0,1.3492,61.6,Lunch
+Steamed or boiled shrimp,4.0,ounces after cooking,0.0,0.0,0.0,4.0,154.56,Lunch
+Steamed or boiled shrimp,0.5,cup, cooked,0.0,0.0,0.0,2.55708,100.05,Lunch
+Steamed or boiled shrimp,1.0,jumbo shrimp,0.0,0.0,0.0,0.3527,13.80003,Lunch
+Steamed or boiled shrimp,10.0,medium shrimp,0.0,0.0,0.0,1.7635,69.0,Lunch
+Steamed or boiled shrimp,10.0,small shrimp,0.0,0.0,0.0,1.4108,55.2,Lunch
+Fried shrimp (breaded or battered),0.5,cup, cooked,0.55341,0.0,0.0,1.66926,158.025,Lunch
+Fried shrimp (breaded or battered),1.0,extra large shrimp,0.21441,0.0,0.0,0.64674,61.2255,Lunch
+Fried shrimp (breaded or battered),10.0,small shrimp,0.5148,0.0,0.0,1.5528,147.0,Lunch
+Spaghetti sauce (with meat),0.5,cup,0.0,0.46688,0.0,0.71214,140.685,Lunch
+Chili con carne (with beans),0.5,cup,0.0,0.35052,0.0,0.86868,132.08,Lunch
+Beef sloppy joe (no bun),0.5,cup,0.0,0.41792,0.0,1.56248,185.74,Lunch
+Beef curry,0.5,cup,0.0,0.28792,0.02596,1.76292,215.94,Lunch
+Beef with BBQ sauce,1.0,slice with sauce,0.03712,0.00232,0.0,1.5718,100.92,Lunch
+Pork or ham with BBQ sauce,1.0,slice with sauce,0.0348,0.00232,0.0,1.5573,104.4,Lunch
+Sausage gravy,0.5,cup,0.2976,0.0,0.0,0.5964,187.2,BreakFast
+Chicken teriyaki,1.0,breast with sauce,0.0,0.0576,0.0,3.1168,190.72,Lunch
+Chicken teriyaki,0.5,cup,0.0,0.0549,0.0,2.9707,181.78,Lunch
+Chicken teriyaki,1.0,thigh with sauce,0.0,0.0342,0.0,1.8506,113.24,Lunch
+Chicken with BBQ sauce,1.0,thigh with sauce,0.03774,0.00296,0.0,2.08458,140.6,Lunch
+Buffalo wing (chicken wing & sauce),1.0,wing ""drumette"" with sauce,0.0,0.0,0.0,0.7248,73.44,Lunch
+Sweet & sour chicken,0.5,cup,0.13356,0.16758,0.1638,0.98532,112.14,Lunch
+Chicken curry,0.5,cup,0.0,0.2655,0.02478,1.94582,146.32,Lunch
+Chicken curry,1.0,thigh with sauce,0.0,0.28125,0.02625,2.06125,155.0,Lunch
+Chicken Parmigiana,1.0,thigh with sauce,0.48018,0.13144,0.0,1.77656,188.68,Lunch
+Corned beef hash,0.5,cup,0.0,0.3949,0.0,1.1847,180.4,Lunch
+Meatloaf or meatball, no sauce,1.0,large meatball,0.15792,0.0252,0.0,0.94626,85.68,Lunch
+Meatloaf or meatball, no sauce,1.0,medium meatball ,0.10528,0.0168,0.0,0.63084,57.12,Lunch
+Meatloaf or meatballs & tomato sauce,1.0,large meatball,0.16112,0.07367,0.0,0.97414,92.75,Lunch
+Meatloaf or meatballs & tomato sauce,1.0,medium meatball,0.10944,0.05004,0.0,0.66168,63.0,Lunch
+Meatloaf or meatballs & tomato sauce,4.0,ounces after cooking,0.34474,0.15763,0.0,2.08429,198.45,Lunch
+Chicken and rice with cream sauce,0.5,cup,0.59892,0.12276,0.0,0.90272,177.32,Lunch
+Chicken and rice with tomato sauce,0.5,cup,0.45994,0.25,0.0,1.10898,113.46,Lunch
+Chicken and dumplings,0.5,cup,0.83326,0.0,0.0,1.99958,184.22,Lunch
+Crab cake,1.0,cake,0.0,0.01764,0.0,1.95237,105.84,Lunch
+Gefilte fish,1.0,piece,0.03196,0.01088,0.0,2.18484,76.84,Lunch
+Gefilte fish,0.5,cup ,0.05335,0.01816,0.0,3.64676,128.255,Lunch
+Gefilte fish,5.0,balls,0.01927,0.00656,0.0,1.31733,46.33,Lunch
+Imitation crabmeat,0.5,cup,0.0,0.0,0.0,2.22201,71.82,Lunch
+Beef stew, potatoes & vegetables,1.0,cup,0.24444,0.80492,0.0,1.78416,199.08,Lunch
+Stuffed cabbage rolls (beef & rice),1.0,roll,0.16171,0.54899,0.0,0.89301,117.42,Lunch
+Gumbo (with rice, New Orleans type),1.0,cup,0.488,0.57096,0.0,1.36396,192.76,Lunch
+Stir-fried chicken and vegetables,0.5,cup,0.11745,0.2916,0.0,0.76221,89.91,Lunch
+General Tso chicken,0.5,cup,0.30806,0.09709,0.0,0.83658,148.19,Lunch
+Chicken salad (with celery, mayo),0.5,cup,0.0,0.18837,0.0,1.88916,208.39,Lunch
+Tuna salad (with celery, mayo),0.5,cup,0.0,0.19032,0.0,2.02696,191.36,Lunch
+Seafood salad (with tomatoes, dressing),0.5,cup,0.0,0.1612,0.0,2.07792,163.28,Lunch
+Tuna egg salad (with celery, mayo),0.5,cup,0.0,0.16432,0.0,1.97912,203.84,Lunch
+Stir-fried shrimp and vegetables,0.5,cup,0.03159,0.41877,0.0,0.86022,79.38,Lunch
+Chef salad, no dressing,1.0,cup,0.0,0.36404,0.0,0.75544,71.44,Lunch
+Chopped chicken liver,0.25,cup,0.0,0.0806,0.0,0.962,117.52,Lunch
+Liver and onions,1.0,slice with onions,0.0,0.25883,0.0,3.01158,177.32,Lunch
+Pig in a blanket (hot dog in dough),1.0,cocktail-size,0.2276,0.0,0.0,0.2506,64.8,Lunch
+Beef broth or consomme,1.0,cup,0.0192,0.0,0.0,0.0,16.8,BreakFast
+Pepperpot soup or menudo soup,1.0,cup,0.39524,0.11327,0.0,0.52056,103.63,Lunch
+Chunky beef vegetable soup,1.0,cup,1.212,0.3816,0.0,0.5664,170.4,Lunch
+Mexican beef vegetable soup,1.0,cup,0.0,0.78153,0.0,0.70983,143.4,Lunch
+Pozole,1.0,cup,0.0,0.36414,0.0,1.1067,195.16,Lunch
+Chicken gumbo soup,1.0,cup,0.2562,0.2074,0.0,0.19764,56.12,Lunch
+Sweet & sour soup,1.0,cup,0.15128,0.4758,0.04636,0.22692,73.2,Lunch
+Chicken vegetable soup,1.0,cup,0.0,0.76002,0.0,1.07311,136.23,Lunch
+Mexican chicken vegetable soup with rice,1.0,cup,0.12826,0.8,0.0,0.73568,181.5,Lunch
+Hot & sour soup,1.0,cup,0.15128,0.24644,0.0,1.2932,161.04,Lunch
+Cream of chicken soup (with water),1.0,cup,1.06384,0.00244,0.0,0.20496,117.12,BreakFast
+New England clam chowder,1.0,cup,0.35464,0.06944,0.0,0.434,148.8,BreakFast
+Chicken gravy,0.25,cup,0.30048,0.00179,0.0,0.08032,47.005,BreakFast
+Beef gravy,0.25,cup,0.37164,0.00117,0.0,0.09436,30.8725,BreakFast
+Mushroom gravy,0.25,cup,0.2142,0.0119,0.0,0.0,16.065,BreakFast
+Mole poblana sauce,0.25,cup,0.03644,0.11395,0.03511,0.44785,78.175,Lunch
+Hard or soft boiled egg,1.0,large egg,0.0,0.0,0.0,1.0,77.0,Lunch
+Hard or soft boiled egg,1.0,slice,0.0,0.0,0.0,0.1,7.7,Lunch
+Fried egg,1.0,large egg,0.0,0.0,0.0,1.00004,89.24,Lunch
+Egg white,1.0,egg white,0.0,0.0,0.0,0.66,17.16,Lunch
+Egg white,0.25,cup,0.0,0.0,0.0,0.815,21.19,Lunch
+Deviled egg,0.5,egg,0.0,0.0,0.0,0.5704,62.31,Lunch
+Scrambled egg (cooked without fat),1.0,large egg,0.0,0.0,0.0,1.0,78.0,Lunch
+Scrambled egg (cooked without fat),0.5,cup,0.0,0.0,0.0,1.72535,134.55,Lunch
+Scrambled egg (cooked with fat),1.0,large egg,0.0,0.0,0.0,1.0,93.62,Lunch
+Scrambled egg (cooked with fat),0.5,cup,0.0,0.0,0.0,1.72591,161.57,Lunch
+Egg drop soup,1.0,cup,0.0,0.0,0.0,0.5002,73.2,Lunch
+Egg Beaters,0.5,cup,0.0,0.0,0.0,2.0,60.0,Lunch
+Egg Beaters,0.25,cup, raw (equals 1 egg),0.0,0.0,0.0,1.00011,30.0,Lunch
+Dry beans, cooked with fat,0.5,cup,0.0,0.0,0.0,0.0,164.7,Lunch
+Dry beans, cooked without fat,0.5,cup,0.0,0.0,0.0,0.0,110.25,Lunch
+Baked beans,0.5,cup,0.07874,0.2286,0.0,0.0,118.11,Lunch
+Refried beans,0.5,cup,0.0,0.07463,0.0,0.0,182.16,Lunch
+Hummus,1.0,Tablespoon,0.0,0.00105,0.00615,0.04995,26.55,Lunch
+Hummus,0.25,cup,0.0,0.00431,0.02522,0.2048,108.855,Lunch
+Pork & beans,0.5,cup,0.09994,0.02657,0.0,0.0,123.97,Lunch
+Dry blackeye peas, cooked without fat,0.5,cup,0.0,0.0,0.0,0.0,97.175,Lunch
+Chickpeas,0.5,cup,0.0,0.0,0.0,0.0,147.6,Lunch
+Split peas,0.5,cup,0.0,0.0,0.0,0.0,114.66,Lunch
+Lentils,0.5,cup,0.0,0.0,0.0,0.0,109.825,Lunch
+Soy nuts,0.25,cup,0.0,0.0,0.0,0.0,109.5075,Lunch
+Tofu,0.25,cup,0.0,0.0,0.0,0.0,37.82,Lunch
+Tofu,1.0,cubic inch piece,0.0,0.0,0.0,0.0,10.736,Lunch
+Soy sauce,1.0,Tablespoon,0.0,0.0,0.0,0.0,8.48,Lunch
+Soy sauce,1.0,packet,0.0,0.0,0.0,0.0,4.717,Lunch
+Teriyaki sauce,0.25,cup,0.0,0.0,0.0,0.0,53.55,Lunch
+Worcestershire sauce,1.0,teaspoon,0.0,0.00505,0.0,0.01268,3.7587,Lunch
+Protein powder,1.0,Tablespoon,0.0,0.0,0.0,0.0,37.293,Lunch
+Tofutti tofu frozen dessert,0.5,cup,0.0,0.0,0.0,0.0,180.4,Lunch
+Bean soup,1.0,cup,0.3795,0.0759,0.0,0.11385,136.62,Lunch
+Miso soup,1.0,cup,0.1152,0.3264,0.0,0.0,84.0,Lunch
+Bean soup with macaroni,1.0,cup,0.38203,0.46805,0.0,0.0,154.33,Lunch
+Split pea soup with ham,1.0,cup,0.09108,0.72358,0.0,1.06766,195.0,Lunch
+Lentil soup,1.0,cup,0.0,0.28272,0.0,0.0,181.04,Lunch
+Meatless bacon bits,1.0,Tablespoon,0.0,0.0,0.0,0.0,33.32,Lunch
+Meatless sausage,1.0,link,0.0,0.0,0.0,0.0,64.25,Lunch
+Meatless sausage,1.0,patty,0.0,0.0,0.0,0.0,97.66,Lunch
+Meatless fried chicken (breaded),1.0,piece,0.0,0.0,0.0,0.0,84.24,Lunch
+Meatless fried chicken (breaded),0.5,cup, diced,0.0,0.0,0.0,0.0,152.1,Lunch
+Meatless hot dog (no bun),1.0,frankfurter,0.0,0.0,0.0,0.0,163.1,Lunch
+Soy burger (no bun),1.0,patty,0.0,0.0,0.0,0.0,125.3,Lunch
+Veggie burger (no bun),1.0,patty,0.0,0.0,0.0,0.0,127.09,Lunch
+Vegetarian chili,0.5,cup,0.0,0.2535,0.0,0.0,135.89,Lunch
+Vegetarian meatloaf or patty,1.0,slice,0.0,0.0,0.0,0.0,110.32,Lunch
+Almonds,1.0,ounce (22 almonds),0.0,0.0,0.0,2.00009,163.863,Lunch
+Almonds,0.25,cup,0.0,0.0,0.0,2.48689,203.745,Lunch
+Cashews,1.0,ounce (18 cashews),0.0,0.0,0.0,2.00009,164.7135,Lunch
+Cashews,0.25,cup,0.0,0.0,0.0,2.29288,188.825,Lunch
+Roasted chestnuts,1.0,ounce (3 chestnuts),0.0,0.0,0.0,2.00009,69.4575,Lunch
+Roasted chestnuts,0.25,cup,0.0,0.0,0.0,2.52216,87.5875,Lunch
+Shredded sweetened coconut,0.25,cup shredded,0.0,0.0,0.0,1.64029,110.205,Lunch
+Shredded sweetened coconut,0.25,cup flaked,0.0,0.0,0.0,1.30517,87.69,Lunch
+Shredded sweetened coconut,1.0,ounce,0.0,0.0,0.0,2.00009,134.379,Lunch
+Filberts (hazelnuts),1.0,ounce (20 nuts),0.0,0.0,0.0,1.9754,175.84,Lunch
+Filberts (hazelnuts),0.25,cup,0.0,0.0,0.0,2.38106,211.95,Lunch
+Macadamia nuts,1.0,ounce (11 nuts),0.0,0.0,0.0,2.00009,202.986,Lunch
+Peanuts,1.0,ounce (32 peanuts),0.0,0.0,0.0,2.00009,169.8165,Lunch
+Pecans,1.0,ounce (20 halves),0.0,0.0,0.0,2.00009,195.8985,Lunch
+Pecans,0.25,cup,0.0,0.0,0.0,1.90485,186.57,Lunch
+Pine nuts (pignolias),1.0,Tablespoon,0.0,0.0,0.0,0.60673,57.878,Lunch
+Pistachios,0.25,cup in shell,0.0,0.0,0.0,1.02254,82.36,Lunch
+Pistachios,0.25,cup shelled,0.0,0.0,0.0,2.25664,181.76,Lunch
+Pistachios,1.0,ounce in shell,0.0,0.0,0.0,1.0578,85.2,Lunch
+Walnuts,1.0,ounce (14 halves),0.0,0.0,0.0,2.00009,185.409,Lunch
+Walnuts,0.25,cup,0.0,0.0,0.0,1.76375,163.5,Lunch
+Peanut butter,1.0,Tablespoon,0.0,0.0,0.0,1.0,95.84,Lunch
+Peanut butter, reduced fat,1.0,Tablespoon,0.0,0.0,0.0,1.00008,93.6,Lunch
+Peanut butter & jelly spread,1.0,Tablespoon,0.0,0.0,0.01168,0.43008,65.44,Lunch
+Peanut sauce,1.0,Tablespoon,0.0,0.0,0.01414,0.45122,44.1,Lunch
+Peanut sauce,0.25,cup,0.0,0.0,0.05732,1.82905,178.7625,Lunch
+Coconut milk,0.25,cup,0.0,0.0,0.0,2.8218,138.0,Lunch
+Trail mix (nuts, seeds, dried fruit),0.25,cup,0.0,0.0,0.1449,1.7283,176.05,Lunch
+Sunflower seeds,1.0,ounce, hulled,0.0,0.0,0.0,2.00009,161.595,Lunch
+Sunflower seeds,0.25,cup, hulled,0.0,0.0,0.0,2.5398,205.2,Lunch
+Sunflower seeds,0.25,cup in hulls,0.0,0.0,0.0,0.81133,65.55,Lunch
+Sesame seeds,0.25,cup,0.0,0.0,0.0,2.64562,212.625,Lunch
+Flax seed,0.25,cup,0.0,0.0,0.0,2.55744,178.35,Lunch
+White bread,1.0,regular slice,0.99996,0.0,0.0,0.0,69.16,BreakFast
+White bread,1.0,large slice,1.1538,0.0,0.0,0.0,79.8,BreakFast
+White bread,1.0,thin slice,0.7692,0.0,0.0,0.0,53.2,BreakFast
+French bread,1.0,large slice,2.56,0.0,0.0,0.0,175.36,BreakFast
+French bread,0.5,mini baguette (9"" long),3.04,0.0,0.0,0.0,208.24,BreakFast
+French bread,1.0,medium slice,1.28,0.0,0.0,0.0,87.68,BreakFast
+foccacia,1.0,slice,2.00013,0.0,0.0,0.0,182.4,BreakFast
+Pita bread (white),1.0,medium (5-1/4"" across),1.9998,0.0,0.0,0.0,123.75,BreakFast
+Pita bread (white),1.0,small (4"" across),1.24432,0.0,0.0,0.0,77.0,BreakFast
+Cheese bread,1.0,slice,0.99996,0.0,0.0,0.0,70.98,BreakFast
+Cinnamon bread or toast,1.0,slice,0.99996,0.0,0.0,0.0,69.16,BreakFast
+Garlic bread,1.0,medium slice,0.99992,0.0,0.0,0.0,95.7,BreakFast
+Garlic bread,1.0,large slice,1.41368,0.0,0.0,0.0,135.3,BreakFast
+Garlic bread,1.0,small slice,0.55168,0.0,0.0,0.0,52.8,BreakFast
+Diet high-fiber bread,1.0,regular slice,0.81635,0.0,0.0,0.0,60.03,BreakFast
+Diet high-fiber bread,1.0,thin slice,0.64745,0.0,0.0,0.0,47.61,BreakFast
+Raisin bread,1.0,regular slice,0.99996,0.0,0.01456,0.0,71.24,BreakFast
+Sourdough bread,1.0,medium slice,1.0,0.0,0.0,0.0,68.5,BreakFast
+Sourdough bread,1.0,large slice,1.4,0.0,0.0,0.0,95.9,BreakFast
+Sourdough bread,1.0,small slice,0.6,0.0,0.0,0.0,41.1,BreakFast
+White roll,1.0,pan or dinner roll,1.0,0.0,0.0,0.0,78.12,BreakFast
+White roll,1.0,hamburger or hot dog bun,1.53553,0.0,0.0,0.0,119.97,BreakFast
+Sub roll,1.0,small (5-1/2"" long),2.00005,0.0,0.0,0.0,181.35,BreakFast
+Frosted sweet roll or cinnamon bun,1.0,small roll,0.43407,0.0,0.02613,0.0,147.42,BreakFast
+Frosted sweet roll or cinnamon bun,1.0,Little Debbie,0.5565,0.0,0.0335,0.0,189.0,BreakFast
+Coffee cake,1.0,piece (1/12 of a 9"" sq),1.47392,0.0,0.0,0.10669,159.8,BreakFast
+Coffee cake,1.0,piece (1/8 of 8"" cake),1.28576,0.0,0.0,0.09307,139.4,BreakFast
+Fat-free coffee cake,1.0,one-inch slice,0.69399,0.0,0.01452,0.0,94.05,BreakFast
+Croissant,1.0,mini croissant (1 oz),0.98252,0.0,0.0,0.0,113.68,BreakFast
+Croissant,1.0,small croissant (1.5 oz),1.47378,0.0,0.0,0.0,170.52,BreakFast
+Bagel (plain),1.0,miniature (1 oz),0.99996,0.0,0.0,0.0,71.5,BreakFast
+Bagel (plain),1.0,small (2 1/2 oz),2.65374,0.0,0.0,0.0,189.75,BreakFast
+Raisin bagel,1.0,small (2 1/2 oz),2.65374,0.0,0.0345,0.0,189.06,BreakFast
+Bread stuffing,0.5,cup, moist type,1.467,0.0,0.0,0.0,176.0,BreakFast
+Bread stuffing,0.5,cup, dry mix, prepared,1.67238,0.0,0.0,0.0,200.64,BreakFast
+Bread stick,1.0,medium,0.5321,0.0,0.0,0.0,41.2,BreakFast
+Bread stick,1.0,large,1.0642,0.0,0.0,0.0,82.4,BreakFast
+Bread stick,1.0,small,0.26605,0.0,0.0,0.0,20.6,BreakFast
+Bread stick,1.0,snack size,0.10642,0.0,0.0,0.0,8.24,BreakFast
+Croutons,0.25,cup,0.3927,0.0,0.0,0.0,46.5,BreakFast
+Croutons,1.0,fast food package,0.3927,0.0,0.0,0.0,46.5,BreakFast
+English muffin,1.0,muffin,1.99984,0.0,0.0,0.0,136.3,BreakFast
+English muffin with raisins,1.0,muffin,1.99984,0.0,0.06728,0.0,140.94,BreakFast
+Melba toast,1.0,piece,0.3313,0.0,0.0,0.0,19.5,BreakFast
+Melba toast,1.0,melba round,0.19878,0.0,0.0,0.0,11.7,BreakFast
+100% whole wheat bread,1.0,regular slice,1.0,0.0,0.0,0.0,68.88,BreakFast
+100% whole wheat bread,1.0,large slice,1.14272,0.0,0.0,0.0,78.72,BreakFast
+100% whole wheat bread,1.0,thin slice,0.82133,0.0,0.0,0.0,56.58,BreakFast
+Pita bread (100% whole wheat),1.0,medium (5-1/4"" across),1.9998,0.0,0.0,0.0,119.7,BreakFast
+Pita bread (100% whole wheat),1.0,small (4"" across),1.24432,0.0,0.0,0.0,74.48,BreakFast
+Whole wheat English muffin,1.0,muffin,1.99984,0.0,0.0,0.0,117.74,BreakFast
+100% whole wheat bagel,1.0,miniature (1 oz),0.99996,0.0,0.0,0.0,68.64,BreakFast
+100% whole wheat bagel,1.0,small (2 1/2 oz),2.65374,0.0,0.0,0.0,182.16,BreakFast
+Wheat or cracked wheat bread,1.0,regular slice,1.0,0.0,0.0,0.0,65.0,BreakFast
+Wheat or cracked wheat bread,1.0,large slice,1.2,0.0,0.0,0.0,78.0,BreakFast
+Wheat or cracked wheat bread,1.0,thin slice,0.8,0.0,0.0,0.0,52.0,BreakFast
+Wheat Bagel (part whole wheat),1.0,miniature (1 oz),0.99996,0.0,0.0,0.0,74.36,BreakFast
+Wheat Bagel (part whole wheat),1.0,small (2 1/2 oz),2.65374,0.0,0.0,0.0,197.34,BreakFast
+Cracked wheat English muffin,1.0,muffin,1.99984,0.0,0.0,0.0,129.34,BreakFast
+Wheat roll (part whole wheat),1.0,pan or dinner roll,1.0,0.0,0.0,0.0,82.04,BreakFast
+Wheat roll (part whole wheat),1.0,hamburger or hot dog bun,1.53553,0.0,0.0,0.0,125.99,BreakFast
+Rye bread,1.0,regular slice,1.0,0.0,0.0,0.0,67.34,BreakFast
+Rye bread,1.0,large slice,1.23072,0.0,0.0,0.0,82.88,BreakFast
+Rye bread,1.0,snack-size slice,0.26922,0.0,0.0,0.0,18.13,BreakFast
+Rye bread,1.0,thin slice,0.7692,0.0,0.0,0.0,51.8,BreakFast
+Multigrain bread,1.0,regular slice,1.0,0.0,0.0,0.0,65.0,BreakFast
+Multigrain bread,1.0,large slice,1.23072,0.0,0.0,0.0,80.0,BreakFast
+Multigrain bread,1.0,thin slice,0.88458,0.0,0.0,0.0,57.5,BreakFast
+Diet high-fiber multigrain bread,1.0,regular slice,0.76076,0.0,0.0,0.05798,60.58,BreakFast
+Diet high-fiber multigrain bread,1.0,thin slice,0.67298,0.0,0.0,0.05129,53.59,BreakFast
+Refrigerated biscuit (canned dough),1.0,biscuit,0.65512,0.0,0.0,0.0,65.74,BreakFast
+Refrigerated biscuit (canned dough),1.0,crescent roll,0.96544,0.0,0.0,0.0,96.88,BreakFast
+Refrigerated biscuit (canned dough),1.0,large biscuit,0.99992,0.0,0.0,0.0,100.34,BreakFast
+Refrigerated biscuit (canned dough),1.0,extra large (Pillsbury Grands!),1.8964,0.0,0.0,0.0,190.3,BreakFast
+Buttermilk biscuit,1.0,medium,1.45707,0.0,0.0,0.0,185.64,BreakFast
+Buttermilk biscuit,1.0,small,1.0,0.0,0.0,0.0,127.4,BreakFast
+Cornbread stuffing,0.5,cup, moist type,1.393,0.0,0.0,0.0,179.0,BreakFast
+Cornbread stuffing,0.5,cup, dry type,0.98207,0.0,0.0,0.0,126.195,BreakFast
+Cornbread or corn muffin,1.0,medium muffin or square,1.4763,0.0,0.0,0.0,173.85,BreakFast
+Cornbread or corn muffin,1.0,small muffin or square,1.1655,0.0,0.0,0.0,137.25,BreakFast
+Cornbread or corn muffin,1.0,stick,1.0101,0.0,0.0,0.0,118.95,BreakFast
+Hush puppy,1.0,hush puppy,0.80058,0.0,0.0,0.0,74.14,BreakFast
+Corn tortilla,1.0,medium (6"" across),1.00008,0.0,0.0,0.0,53.28,BreakFast
+Corn tortilla,1.0,large (8"" across),1.79181,0.0,0.0,0.0,95.46,BreakFast
+Corn tortilla,1.0,small (4"" across),0.44587,0.0,0.0,0.0,23.754,BreakFast
+Flour (wheat) tortilla,1.0,medium (8"" across),1.69983,0.0,0.0,0.0,165.75,BreakFast
+Flour (wheat) tortilla,1.0,small (6"" across),0.9999,0.0,0.0,0.0,97.5,BreakFast
+Whole wheat tortilla,1.0,medium (7"" across),1.4816,0.0,0.0,0.0,105.2,BreakFast
+Whole wheat tortilla,1.0,large (8"" across),1.92608,0.0,0.0,0.0,136.76,BreakFast
+Whole wheat tortilla,1.0,small  (6"" across),1.00008,0.0,0.0,0.0,71.01,BreakFast
+Taco or tostada shell,1.0,medium (5"" across),0.63335,0.0,0.0,0.0,62.244,BreakFast
+Taco or tostada shell,1.0,large (6 1/2"" across),1.00002,0.0,0.0,0.0,98.28,BreakFast
+Taco or tostada shell,1.0,miniature (3"" across),0.2381,0.0,0.0,0.0,23.4,BreakFast
+Blueberry or banana muffin,1.0,miniature (1 1/4” across),0.42218,0.0,0.02812,0.0,52.63,BreakFast
+Blueberry or banana muffin,1.0,small (2 1/2” across),1.46652,0.0,0.09768,0.0,182.82,BreakFast
+Fat-free berry or banana muffin,1.0,miniature (1 1/4” across),0.42218,0.0,0.01387,0.0,49.59,BreakFast
+Fat-free berry or banana muffin,1.0,small (2 1/2” across),1.46652,0.0,0.04818,0.0,172.26,BreakFast
+Chocolate chip muffin,1.0,miniature (1 1/4” across),0.42218,0.0,0.0,0.0,61.18,BreakFast
+Chocolate chip muffin,1.0,small (2 1/2” across),1.46652,0.0,0.0,0.0,212.52,BreakFast
+Bran muffin,1.0,miniature (1 1/4” across),0.42218,0.0,0.04066,0.0,56.05,BreakFast
+Bran muffin,1.0,small (2 1/2” across),1.46652,0.0,0.14124,0.0,194.7,BreakFast
+Lowfat bran & fruit muffin,1.0,small muffin (2 oz),1.28876,0.0,0.0232,0.0,136.3,BreakFast
+Plain muffin,1.0,miniature (1 1/4” across),0.42218,0.0,0.0,0.0,57.95,BreakFast
+Plain muffin,1.0,small (2 1/2” across),1.46652,0.0,0.0,0.0,201.3,BreakFast
+Matzo pancake,1.0,pancake or fritter,0.1602,0.0,0.0,0.10125,53.55,Lunch
+Matzo ball,1.0,ball,0.4942,0.0,0.0,0.17115,47.95,BreakFast
+Fruit bread (banana, etc.),1.0,slice (1.4 oz),0.91102,0.0,0.06847,0.0,132.43,BreakFast
+Zucchini bread,1.0,slice (1.4 oz),0.8888,0.0752,0.0,0.0,149.6,BreakFast
+Angel food cake,1.0,piece (1/12 of 10"" cake),1.14684,0.0,0.0,0.0,143.07,BreakFast
+Cheesecake,1.0,single serving cake,0.23712,0.0,0.00342,0.0,182.4,BreakFast
+Chocolate cupcake with icing/filling,1.0,medium cupcake (1.4 oz),0.7712,0.0,0.0,0.0,150.4,BreakFast
+Chocolate cupcake with icing/filling,1.0,small cupcake (0.9 oz),0.482,0.0,0.0,0.0,94.0,BreakFast
+Chocolate cupcake with icing/filling,1.0,Ho Ho,0.53984,0.0,0.0,0.0,105.28,BreakFast
+Chocolate cupcake with icing/filling,1.0,Ding Dong,0.73264,0.0,0.0,0.0,142.88,BreakFast
+Ice cream cake,1.0,piece (1/10 of loaf),0.2176,0.0,0.0,0.0,91.12,BreakFast
+Fruit shortcake with whipped cream,1.0,piece (3"" across),0.16638,0.0,0.26078,0.0,211.22,Dinner
+Biscotti,1.0,biscotti,0.82112,0.0,0.0,0.35648,144.96,Lunch
+Brownie, no icing,1.0,brownie (2"" square),0.6205,0.0,0.0,0.08024,128.86,BreakFast
+Brownie with icing,1.0,brownie (2"" square),0.69552,0.0,0.0,0.05922,170.1,BreakFast
+Chocolate chip cookie,1.0,medium (2"" across),0.25,0.0,0.0,0.0,48.1,BreakFast
+Chocolate chip cookie,0.25,cup of bite size cookies,0.50625,0.0,0.0,0.0,97.4025,BreakFast
+Chocolate chip cookie,1.0,""big"" cookie (4"" across),1.0,0.0,0.0,0.0,192.4,BreakFast
+Chocolate chip cookie,1.0,large,0.35,0.0,0.0,0.0,67.34,BreakFast
+Reduced-fat chocolate chip cookie,1.0,Nabisco Chips Ahoy!,0.30763,0.0,0.0,0.0,46.866,BreakFast
+Reduced-fat chocolate chip cookie,0.25,cup, Snackwell's,0.48156,0.0,0.0,0.0,73.365,BreakFast
+Reduced-fat chocolate chip cookie,1.0,Keebler Chips Deluxe,0.46,0.0,0.0,0.0,70.08,BreakFast
+Chocolate fudge cookie,1.0,medium (2"" across),0.33319,0.0,0.0,0.0,56.29,BreakFast
+Chocolate fudge cookie,1.0,""big"" cookie (4"" across),0.64075,0.0,0.0,0.0,108.25,BreakFast
+Chocolate fudge cookie,1.0,bite size,0.05639,0.0,0.0,0.0,9.526,BreakFast
+Moon pie,1.0,scooter pie,0.33796,0.0,0.0,0.0,143.14,BreakFast
+Moon pie,1.0,Little Debbie,0.38766,0.0,0.0,0.0,164.19,BreakFast
+Oreo or thin mint cookie,1.0,regular Oreo,0.24112,0.0,0.0,0.0,51.92,BreakFast
+Oreo or thin mint cookie,1.0,mini sandwich,0.06138,0.0,0.0,0.0,13.216,BreakFast
+Oreo or thin mint cookie,1.0,chocolate-coated Oreo,0.28496,0.0,0.0,0.0,61.36,BreakFast
+Oreo or thin mint cookie,1.0,fudge stick,0.19728,0.0,0.0,0.0,42.48,BreakFast
+Oreo or thin mint cookie,1.0,large (4"" across),0.6576,0.0,0.0,0.0,141.6,BreakFast
+Oreo or thin mint cookie,1.0,Girl Scout thin mint,0.15563,0.0,0.0,0.0,33.512,BreakFast
+Reduced-fat Oreo,1.0,cookie,0.33339,0.0,0.0,0.0,46.0,BreakFast
+Chocolate wafer cookie,1.0,medium (1-3/4"" across),0.30756,0.0,0.0,0.0,51.96,BreakFast
+Chocolate wafer cookie,0.25,cup, Teddy Grahams,0.45493,0.0,0.0,0.0,76.8575,BreakFast
+Chocolate wafer cookie,1.0,small or thin,0.15378,0.0,0.0,0.0,25.98,BreakFast
+Fig bar (Fig Newton),1.0,bar (bar = 1 1/2""),0.25808,0.0,0.05536,0.0,55.68,Dinner
+Fig bar (Fig Newton),1.0,small pkg (two 3"" bars),0.91941,0.0,0.19722,0.0,198.36,Dinner
+Fortune cookie,1.0,cookie,0.25216,0.0,0.0,0.0,30.24,BreakFast
+Ice cream cone (wafer or cake, shell only),1.0,cone,0.21912,0.0,0.0,0.0,16.68,BreakFast
+Ice cream cone (wafer or cake, shell only),1.0,large waffle cone,1.58862,0.0,0.0,0.0,120.93,BreakFast
+Ice cream cone (sugar cone, shell only),1.0,cone,0.434,0.0,0.0,0.0,40.2,BreakFast
+Marshmallow rice krispies bar,1.0,bar (2"" square),0.7161,0.0,0.0,0.0,112.8,BreakFast
+Oatmeal raisin cookie,1.0,medium (2-5/8"" across),0.38714,0.0,0.00871,0.0,58.5,BreakFast
+Oatmeal raisin cookie,1.0,""big"" cookie (4"" across),0.7445,0.0,0.01675,0.0,112.5,BreakFast
+Oatmeal raisin cookie,1.0,Little Debbie cookie,1.13164,0.0,0.02546,0.0,171.0,BreakFast
+Reduced-fat oatmeal raisin cookie,1.0,cookie,0.40379,0.0,0.03834,0.0,51.57,BreakFast
+Peanut butter cookie,1.0,medium,0.26656,0.0,0.0,0.3056,76.32,Lunch
+Peanut butter cookie,1.0,""big"" cookie (4"" across),0.4165,0.0,0.0,0.4775,119.25,Lunch
+Shortbread cookie,1.0,small (Lorna Doone),0.26075,0.0,0.0,0.0,35.14,BreakFast
+Shortbread cookie,1.0,large,0.78225,0.0,0.0,0.0,105.42,BreakFast
+Shortbread cookie,1.0,medium (2"" across),0.55875,0.0,0.0,0.0,75.3,BreakFast
+Shortbread cookie,1.0,Girl Scout cookie,0.23468,0.0,0.0,0.0,31.626,BreakFast
+Sugar cookie,1.0,medium (2 5/8"" across),0.48336,0.0,0.0,0.0,76.0,BreakFast
+Sugar cookie,1.0,large (3 1/2-4"" across),0.75525,0.0,0.0,0.0,118.75,BreakFast
+Sugar cookie,1.0,small (2"" across),0.27189,0.0,0.0,0.0,42.75,BreakFast
+Vanilla sandwich cookie,1.0,sandwich,0.27225,0.0,0.0,0.0,53.13,BreakFast
+Vanilla wafer,1.0,medium,0.10752,0.0,0.0,0.0,17.64,BreakFast
+Cheese blintz,1.0,blintz,0.5754,0.0,0.0,0.0,134.4,BreakFast
+Fruit blintz,1.0,blintz,0.4452,0.0,0.1092,0.0,123.2,Dinner
+Peach cobbler,0.5,cup,1.15649,0.0,0.4,0.0,209.0,Dinner
+Apple crisp,0.5,cup,0.85608,0.0,0.4,0.0,192.0,Dinner
+Plain Danish pastry,1.0,small (3"" across),0.7259,0.0,0.0,0.0,141.05,BreakFast
+Plain Danish pastry,1.0,Toaster Strudel,1.09922,0.0,0.0,0.0,213.59,BreakFast
+Fruit-filled Danish pastry,1.0,small (3"" across),0.7112,0.0,0.08155,0.0,129.85,BreakFast
+Fruit-filled Danish pastry,1.0,Toaster Strudel,1.07696,0.0,0.12349,0.0,196.63,BreakFast
+Cheese Danish pastry,1.0,small (3"" across),1.34805,0.0,0.0,0.0,205.7,BreakFast
+Fat-free cheese Danish pastry,1.0,slice,0.75936,0.0,6.4E-4,0.0,94.72,BreakFast
+Cake doughnut,1.0,medium (3-1/4"" across),1.00627,0.0,0.0,0.0,197.87,BreakFast
+Cake doughnut,1.0,doughnut hole,0.29974,0.0,0.0,0.0,58.94,BreakFast
+Cake doughnut,1.0,small (2-1/2"" across),0.53525,0.0,0.0,0.0,105.25,BreakFast
+Cake doughnut, frosted,1.0,doughnut hole,0.385,0.0,0.0,0.0,94.8,BreakFast
+Cake doughnut, frosted,1.0,small (2-1/2"" across),0.693,0.0,0.0,0.0,170.64,BreakFast
+Chocolate raised doughnut, frosted,1.0,doughnut hole,0.29003,0.0,0.0,0.0,89.01,BreakFast
+Raised doughnut,1.0,doughnut hole,0.2353,0.0,0.0,0.0,52.39,BreakFast
+Raised doughnut,1.0,small (3"" across),0.5611,0.0,0.0,0.0,124.93,BreakFast
+Raised doughnut, frosted,1.0,doughnut hole,0.29578,0.0,0.0,0.0,89.01,BreakFast
+Pop Tart,1.0,Pop Tart,1.95,0.00728,0.02236,0.0,204.36,BreakFast
+Breakfast bar,1.0,bar,0.73889,0.0,0.00777,0.0,139.49,BreakFast
+Meal replacement bar (Slim Fast bar),1.0,bar,0.0,0.0,0.0,0.1241,142.8,BreakFast
+Granola bar,1.0,bar,0.54152,0.0,0.00756,0.03808,129.92,BreakFast
+Lowfat granola bar,1.0,bar,0.43488,0.0,0.04104,0.04416,95.28,BreakFast
+Lowfat granola bar,1.0,Nature Valley bar,0.50736,0.0,0.04788,0.05152,111.16,BreakFast
+Lowfat granola bar,1.0,Kellogg's bar,0.38052,0.0,0.03591,0.03864,83.37,BreakFast
+Chocolate-covered granola bar,1.0,Kudos bar,0.25272,0.0,0.0,0.0,171.36,BreakFast
+Chocolate-covered granola bar,1.0,Quaker Oats bar,0.19656,0.0,0.0,0.0,133.28,BreakFast
+Chocolate-covered granola bar,1.0,Sweet Success bar,0.23166,0.0,0.0,0.0,157.08,BreakFast
+Animal cracker,0.25,individual box,0.63954,0.0,0.0,0.0,63.555,BreakFast
+Animal cracker,0.25,cup,0.71808,0.0,0.0,0.0,71.36,BreakFast
+Animal cracker,1.0,cracker,0.1122,0.0,0.0,0.0,11.15,BreakFast
+Graham cracker,1.0,large rectangle (2 squares),0.50204,0.0,0.0,0.0,59.22,BreakFast
+Snack cracker ,1.0,round cracker (Ritz),0.13062,0.0,0.0,0.0,15.06,BreakFast
+Snack cracker ,0.25,cup bite size crackers,0.57691,0.0,0.0,0.0,66.515,BreakFast
+Snack cracker ,1.0,rectangular cracker,0.17416,0.0,0.0,0.0,20.08,BreakFast
+Reduced-fat snack cracker,1.0,round cracker (Ritz),0.1773,0.0,0.0,0.0,11.76,BreakFast
+Reduced-fat snack cracker,1.0,Snackwell's cracker,0.13593,0.0,0.0,0.0,9.016,BreakFast
+Cheese cracker,0.25,cup bit-size crackers,0.52854,0.0,0.0,0.0,66.6475,BreakFast
+Cheese cracker,1.0,single serving bag,1.11692,0.0,0.0,0.0,140.84,BreakFast
+Reduced fat cheese cracker,0.25,cup,0.68136,0.0,0.0,0.0,49.68,BreakFast
+Matzo,1.0,matzo,1.897,0.0,0.0,0.0,110.6,BreakFast
+Saltine cracker,1.0,square cracker,0.17265,0.0,0.0,0.0,13.02,BreakFast
+Saltine cracker,1.0,rectangle cracker,0.3453,0.0,0.0,0.0,26.04,BreakFast
+Peanut butter sandwich cracker,1.0,sandwich,0.07788,0.0,0.0,0.03547,11.856,Lunch
+Cheese sandwich cracker,1.0,sandwich,0.30807,0.0,0.0,0.0,33.39,BreakFast
+100% whole wheat cracker (Triscuit),1.0,cracker,0.20808,0.0,0.0,0.0,17.72,BreakFast
+Reduced-fat Triscuit,1.0,cracker,0.23408,0.0,0.0,0.0,15.795,BreakFast
+Wheat cracker ,8.0,Wheat Thins,0.68752,0.0,0.0,0.0,76.0,BreakFast
+Wheat cracker ,0.5,ounce crackers,0.6091,0.0,0.0,0.0,67.0,BreakFast
+Corn chips (Fritos),1.0,single srvg bag (bag = 1 oz),1.17432,0.0,0.0,0.0,150.92,BreakFast
+Corn puffs (Cheetos),1.0,cup ,1.1179,0.0,0.0,0.0,193.9,BreakFast
+Corn puffs (Cheetos),1.0,single srvg bag (bag = 1 oz),0.89432,0.0,0.0,0.0,155.12,BreakFast
+Tortilla chips (Doritos, Tostitos),1.0,cup ,1.51328,0.0,0.0,0.0,160.32,BreakFast
+Tortilla chips (Doritos, Tostitos),1.0,single srvg bag (bag = 1 oz),1.32412,0.0,0.0,0.0,140.28,BreakFast
+Tortilla chips (Doritos, Tostitos),10.0,chips ,1.4187,0.0,0.0,0.0,150.3,BreakFast
+Baked or low-fat tortilla chips,1.0,cup,1.29801,0.0,0.0,0.0,87.15,BreakFast
+Baked or low-fat tortilla chips,10.0,chips,1.60706,0.0,0.0,0.0,107.9,BreakFast
+Low-fat corn puffs (cheese curls),1.0,cup,0.76656,0.0,0.0,0.0,103.68,BreakFast
+Popcorn (oil popped, no butter),1.0,cup, popped,0.3333,0.0,0.0,0.0,55.0,BreakFast
+Popcorn (oil popped, no butter),1.0,single serving bag,0.8484,0.0,0.0,0.0,140.0,BreakFast
+Buttered popcorn,1.0,cup, popped,0.33334,0.0,0.0,0.0,72.94,BreakFast
+Low-fat popcorn,1.0,cup, popped,0.33334,0.0,0.0,0.0,32.3,BreakFast
+Caramel corn,1.0,cup,0.3332,0.0,0.0,0.0,150.85,BreakFast
+Caramel corn,1.0,popcorn ball,0.476,0.0,0.0,0.0,215.5,BreakFast
+Hard pretzels,0.25,cup,0.5648,0.0,0.0,0.0,38.1,BreakFast
+Hard pretzels,1.0,single serving bag (1 oz),1.58144,0.0,0.0,0.0,106.68,BreakFast
+Soft pretzel,1.0,small (2 oz),3.59476,0.0,0.0,0.0,209.56,BreakFast
+Snack Mix (pretzel, nut, cereal mix),0.25,cup,0.36956,0.0,0.0,0.11227,47.475,BreakFast
+Pancakes,2.0,medium (5"" across),2.0,0.0,0.0,0.0,183.2,BreakFast
+Pancakes,2.0,small (3"" across),0.65,0.0,0.0,0.0,59.54,BreakFast
+Blueberry pancakes,2.0,medium (5"" across),1.0,0.0,0.1016,0.0,152.0,BreakFast
+Blueberry pancakes,2.0,small (3"" across),0.325,0.0,0.03302,0.0,49.4,BreakFast
+Whole wheat pancakes,2.0,medium (5"" across),2.0,0.0,0.0,0.0,183.2,BreakFast
+Whole wheat pancakes,2.0,small (3"" across),0.65,0.0,0.0,0.0,59.54,BreakFast
+Waffle,1.0,round (4"" across),1.05417,0.0,0.0,0.0,102.96,BreakFast
+Waffle,1.0,miniature waffle,0.22705,0.0,0.0,0.0,22.176,BreakFast
+Waffle,1.0,large round (7"" across),2.02725,0.0,0.0,0.0,198.0,BreakFast
+Waffle,1.0,square (4"" square),1.00011,0.0,0.0,0.0,97.68,BreakFast
+Bran, multigrain, or wheat waffle,1.0,round (4"" across),1.05417,0.0,0.0,0.0,115.05,BreakFast
+Bran, multigrain, or wheat waffle,1.0,square (4"" square),1.00011,0.0,0.0,0.0,109.15,BreakFast
+Lowfat waffle,1.0,square (4"" square),1.00011,0.0,0.0,0.0,87.32,BreakFast
+French toast,1.0,regular slice (2 oz),1.3052,0.0,0.0,0.4186,157.95,BreakFast
+French toast,1.0,thick slice (3 oz),1.46584,0.0,0.0,0.47012,177.39,BreakFast
+French toast sticks,1.0,stick ,0.33306,0.0,0.0,0.0,76.44,BreakFast
+Spaghetti, macaroni, or pasta (plain),1.0,cup, cooked,2.0,0.0,0.0,0.0,196.0,BreakFast
+Spaghetti, macaroni, or pasta (plain),1.0,jumbo shell,0.32867,0.0,0.0,0.0,32.2,BreakFast
+Spaghetti, macaroni, or pasta (plain),1.0,lasagne noodle,0.78595,0.0,0.0,0.0,77.0,BreakFast
+Egg noodles (no fat added),1.0,cup, cooked,2.0,0.0,0.0,0.0,211.2,BreakFast
+Mung bean noodles,1.0,cup, cooked,2.0007,0.0,0.0,0.0,159.6,BreakFast
+Chow fun rice noodles,1.0,cup, cooked,2.0,0.0,0.0,0.0,171.2,BreakFast
+Whole wheat spaghetti or pasta (plain),1.0,cup, cooked,2.0006,0.0,0.0,0.0,172.2,BreakFast
+Cooked barley,0.5,cup,1.00035,0.0,0.0,0.0,98.82,BreakFast
+Grits, no fat added,0.5,cup, cooked,0.99946,0.0,0.0,0.0,55.66,BreakFast
+Grits, with butter,0.5,cup, cooked,1.00035,0.0,0.0,0.0,88.92,BreakFast
+Oatmeal (plain),0.5,cup, cooked,1.00035,0.0,0.0,0.0,72.54,BreakFast
+Oatmeal (flavored),0.5,cup, cooked,1.00035,0.0,0.0,0.0,106.47,BreakFast
+Oatmeal (flavored),1.0,packet, cooked,1.2483,0.0,0.0,0.0,132.86,BreakFast
+White rice, no fat added,0.5,cup, cooked,1.00014,0.0,0.0,0.0,101.91,BreakFast
+Brown rice, no fat added,0.5,cup, cooked,1.00035,0.0,0.0,0.0,107.25,BreakFast
+Wild rice, no fat added,0.5,cup, cooked,1.00035,0.0,0.0,0.0,65.0,BreakFast
+White rice, with butter or oil,0.5,cup, cooked,1.00001,0.0,0.0,0.0,118.175,BreakFast
+Cream of wheat,0.5,cup, cooked,1.00023,0.0,0.0,0.0,55.22,BreakFast
+All-Bran cereal,1.0,cup,1.698,0.0,0.0,0.0,156.0,BreakFast
+All-Bran cereal,1.0,single serving box,0.9905,0.0,0.0,0.0,91.0,BreakFast
+Apple Jacks cereal,1.0,cup,0.5406,0.0,0.0132,0.0,117.0,BreakFast
+Apple Jacks cereal,1.0,single serving box,0.48654,0.0,0.01188,0.0,105.3,BreakFast
+Cap'n Crunch cereal,1.0,cup,0.61128,0.0,0.0,0.0,144.36,BreakFast
+Cheerios,1.0,cup,1.0137,0.0,0.0,0.0,110.7,BreakFast
+Cheerios,1.0,single serving box,0.70959,0.0,0.0,0.0,77.49,BreakFast
+Chex cereal (corn, wheat, or bran),1.0,cup,1.25424,0.0,0.0,0.0,143.13,BreakFast
+Cinnamon Toast Crunch cereal,1.0,cup,0.79838,0.0,0.0,0.0,160.36,BreakFast
+Cinnamon Toast Crunch cereal,1.0,single serving box,0.69333,0.0,0.0,0.0,139.26,BreakFast
+Cocoa Puffs cereal,1.0,cup,0.4272,0.0,0.0,0.0,117.0,BreakFast
+Corn flakes cereal,1.0,cup,0.8015,0.0,0.0,0.0,90.25,BreakFast
+Corn flakes cereal,1.0,single serving box,0.67326,0.0,0.0,0.0,75.81,BreakFast
+Fiber One cereal,1.0,cup,2.1162,0.0,0.0,0.0,118.2,BreakFast
+Bran flakes cereal,1.0,cup,1.24515,0.0,0.0,0.0,144.0,BreakFast
+Froot Loops cereal,1.0,cup,0.511,0.0,0.0,0.0,110.04,BreakFast
+Froot Loops cereal,1.0,single serving box,0.49275,0.0,0.0,0.0,106.11,BreakFast
+Frosted Mini-Wheats cereal,1.0,cup,1.6866,0.0,0.0,0.0,204.0,BreakFast
+Frosted Mini-Wheats cereal,1.0,single serving box,0.98385,0.0,0.0,0.0,119.0,BreakFast
+Fruity Pebbles cereal,1.0,cup,0.76608,0.0,0.0,0.0,144.36,BreakFast
+Golden Grahams cereal,1.0,cup,0.7028,0.0,0.0,0.0,148.8,BreakFast
+Low-fat granola cereal,0.5,cup,1.1627,0.0,0.0,0.0748,209.0,BreakFast
+Grape-Nuts cereal,0.25,cup,0.84829,0.0,0.0,0.0,97.8275,BreakFast
+Honey Bunches of Oats cereal,1.0,cup,0.9072,0.0,0.0,0.0,157.6,BreakFast
+Honeycomb cereal,1.0,cup,0.55814,0.0,0.0,0.0,86.9,BreakFast
+Honey Nut Cheerios,1.0,cup,0.5994,0.0,0.0,0.0249,111.9,BreakFast
+Honey Nut Cheerios,1.0,single serving box,0.55944,0.0,0.0,0.02324,104.44,BreakFast
+Honey Smacks cereal,1.0,cup,0.63375,0.0,0.0,0.0,150.93,BreakFast
+Kashi, puffed,1.0,cup,0.84672,0.0,0.0,0.0,87.6,BreakFast
+Kix cereal,1.0,cup,0.67804,0.0,0.0,0.0,82.94,BreakFast
+Kix cereal,1.0,single serving box,0.55476,0.0,0.0,0.0,67.86,BreakFast
+Life cereal (plain & cinnamon),1.0,cup,1.24652,0.0,0.0,0.0,165.0,BreakFast
+Lucky Charms cereal,1.0,cup,0.5829,0.0,0.0,0.0,114.0,BreakFast
